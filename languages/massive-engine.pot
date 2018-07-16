@@ -1,0 +1,6748 @@
+# Copyright (C) 2017 Massive Engine
+# This file is distributed under the same license as the Massive Engine package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Massive Engine 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/massive-engine\n"
+"POT-Creation-Date: 2017-04-17 10:19:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class.custom-types.php:17
+msgctxt "Post Type General Name"
+msgid "Banners"
+msgstr ""
+
+#: includes/class.custom-types.php:18
+msgctxt "Post Type Singular Name"
+msgid "Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:19 includes/class.custom-types.php:20
+msgid "Banners"
+msgstr ""
+
+#: includes/class.custom-types.php:21
+msgid "Parent Banner:"
+msgstr ""
+
+#: includes/class.custom-types.php:22
+msgid "All Banners"
+msgstr ""
+
+#: includes/class.custom-types.php:23
+msgid "Add New Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:24
+msgid "Add Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:25
+msgid "New Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:26
+msgid "Edit Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:27
+msgid "Update Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:28
+msgid "View Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:29
+msgid "Search Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:30 includes/class.custom-types.php:75
+msgid "Not found"
+msgstr ""
+
+#: includes/class.custom-types.php:31 includes/class.custom-types.php:76
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class.custom-types.php:32
+msgid "Banners list"
+msgstr ""
+
+#: includes/class.custom-types.php:33
+msgid "Banners list navigation"
+msgstr ""
+
+#: includes/class.custom-types.php:34
+msgid "Filter banners list"
+msgstr ""
+
+#: includes/class.custom-types.php:38 shortcodes/banner/class-banner.php:25
+msgid "Banner"
+msgstr ""
+
+#: includes/class.custom-types.php:39
+msgid "Banner Post Type"
+msgstr ""
+
+#: includes/class.custom-types.php:62
+msgctxt "Post Type General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: includes/class.custom-types.php:63
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:64 includes/class.custom-types.php:65
+msgid "Portfolios"
+msgstr ""
+
+#: includes/class.custom-types.php:66
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: includes/class.custom-types.php:67
+msgid "All Portfolios"
+msgstr ""
+
+#: includes/class.custom-types.php:68
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:69
+msgid "Add Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:70
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:71
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:72
+msgid "Update Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:73
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:74
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:77
+msgid "Portfolios list"
+msgstr ""
+
+#: includes/class.custom-types.php:78
+msgid "Portfolios list navigation"
+msgstr ""
+
+#: includes/class.custom-types.php:79
+msgid "Filter Portfolios list"
+msgstr ""
+
+#: includes/class.custom-types.php:83
+#: shortcodes/portfolio/class-portfolio.php:25
+msgid "Portfolio"
+msgstr ""
+
+#: includes/class.custom-types.php:84
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: includes/class.custom-types.php:104
+msgctxt "Taxonomy General Name"
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/class.custom-types.php:105
+msgctxt "Taxonomy Singular Name"
+msgid "Portfolio Tag"
+msgstr ""
+
+#: includes/class.custom-types.php:106
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/class.custom-types.php:107
+msgid "All Tags"
+msgstr ""
+
+#: includes/class.custom-types.php:108
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/class.custom-types.php:109
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/class.custom-types.php:110
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/class.custom-types.php:111
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/class.custom-types.php:112
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/class.custom-types.php:113
+msgid "Update Tag"
+msgstr ""
+
+#: includes/class.custom-types.php:114
+msgid "View Tag"
+msgstr ""
+
+#: includes/class.custom-types.php:115
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/class.custom-types.php:116
+msgid "Add or remove tag"
+msgstr ""
+
+#: includes/class.custom-types.php:117 includes/class.custom-types.php:153
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/class.custom-types.php:118
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/class.custom-types.php:119
+msgid "Search Tags"
+msgstr ""
+
+#: includes/class.custom-types.php:120 includes/class.custom-types.php:156
+msgid "Not Found"
+msgstr ""
+
+#: includes/class.custom-types.php:140
+msgctxt "Taxonomy General Name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/class.custom-types.php:141
+msgctxt "Taxonomy Singular Name"
+msgid "Portfolio Category "
+msgstr ""
+
+#: includes/class.custom-types.php:142
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/class.custom-types.php:143
+msgid "All Categories"
+msgstr ""
+
+#: includes/class.custom-types.php:144
+msgid "Parent Category"
+msgstr ""
+
+#: includes/class.custom-types.php:145
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/class.custom-types.php:146
+msgid "New Category Name"
+msgstr ""
+
+#: includes/class.custom-types.php:147
+msgid "Add New Category"
+msgstr ""
+
+#: includes/class.custom-types.php:148
+msgid "Edit Category"
+msgstr ""
+
+#: includes/class.custom-types.php:149
+msgid "Update Category"
+msgstr ""
+
+#: includes/class.custom-types.php:150
+msgid "View Category"
+msgstr ""
+
+#: includes/class.custom-types.php:151
+msgid "Separate category with commas"
+msgstr ""
+
+#: includes/class.custom-types.php:152
+msgid "Add or remove category"
+msgstr ""
+
+#: includes/class.custom-types.php:154
+msgid "Popular Category"
+msgstr ""
+
+#: includes/class.custom-types.php:155
+msgid "Search Category"
+msgstr ""
+
+#: includes/class.custom-types.php:157
+msgid "No Category"
+msgstr ""
+
+#: includes/class.custom-types.php:158
+msgid "Category list"
+msgstr ""
+
+#: includes/class.custom-types.php:159
+msgid "Category list navigation"
+msgstr ""
+
+#: includes/class.tb-vc-preview-field.php:23
+msgid "%s Preview Image."
+msgstr ""
+
+#: includes/class.tb-vc-preview-field.php:32
+msgid "Preview"
+msgstr ""
+
+#: includes/functions.php:302
+msgid "Full Size"
+msgstr ""
+
+#: includes/functions.php:303
+msgid "Large Size [1000x999999]"
+msgstr ""
+
+#: includes/functions.php:304
+msgid "Medium Size [650x999999]"
+msgstr ""
+
+#: includes/functions.php:379
+msgid "Type: %s"
+msgstr ""
+
+#: includes/functions.php:382
+msgid "Banner Default Title"
+msgstr ""
+
+#: includes/functions.php:437
+msgid ""
+"Select portfolio categories (Leave empty to display from all categories)"
+msgstr ""
+
+#: includes/functions.php:439
+msgid ""
+"You may didn't added any portfolio category yet. You can add categories over "
+"here %s"
+msgstr ""
+
+#: includes/functions.php:439
+msgid "Portfolio categories"
+msgstr ""
+
+#: includes/functions.php:487
+msgid "Container Type"
+msgstr ""
+
+#: includes/functions.php:490
+msgid "Fixed container width: %s and fluid container width: %s"
+msgstr ""
+
+#: includes/functions.php:492
+msgid "Fluid Container (100%)"
+msgstr ""
+
+#: includes/functions.php:493
+msgid "Fixed Container (1170px)"
+msgstr ""
+
+#: includes/icons.php:13
+msgid "adjustments"
+msgstr ""
+
+#: includes/icons.php:14
+msgid "alarmclock"
+msgstr ""
+
+#: includes/icons.php:15
+msgid "anchor"
+msgstr ""
+
+#: includes/icons.php:16
+msgid "aperture"
+msgstr ""
+
+#: includes/icons.php:17
+msgid "attachments"
+msgstr ""
+
+#: includes/icons.php:18
+msgid "bargraph"
+msgstr ""
+
+#: includes/icons.php:19
+msgid "basket"
+msgstr ""
+
+#: includes/icons.php:20
+msgid "beaker"
+msgstr ""
+
+#: includes/icons.php:21
+msgid "bike"
+msgstr ""
+
+#: includes/icons.php:22 includes/icons.php:118
+msgid "book"
+msgstr ""
+
+#: includes/icons.php:23
+msgid "briefcase2"
+msgstr ""
+
+#: includes/icons.php:24
+msgid "browser2"
+msgstr ""
+
+#: includes/icons.php:25
+msgid "calendar"
+msgstr ""
+
+#: includes/icons.php:26
+msgid "camera"
+msgstr ""
+
+#: includes/icons.php:27
+msgid "caution"
+msgstr ""
+
+#: includes/icons.php:28
+msgid "chat"
+msgstr ""
+
+#: includes/icons.php:29
+msgid "circle"
+msgstr ""
+
+#: includes/icons.php:30
+msgid "clipboard"
+msgstr ""
+
+#: includes/icons.php:31
+msgid "clock2"
+msgstr ""
+
+#: includes/icons.php:32
+msgid "cloud"
+msgstr ""
+
+#: includes/icons.php:33
+msgid "compass"
+msgstr ""
+
+#: includes/icons.php:34
+msgid "desktop"
+msgstr ""
+
+#: includes/icons.php:35
+msgid "dial"
+msgstr ""
+
+#: includes/icons.php:36
+msgid "document"
+msgstr ""
+
+#: includes/icons.php:37
+msgid "documents"
+msgstr ""
+
+#: includes/icons.php:38
+msgid "download"
+msgstr ""
+
+#: includes/icons.php:39
+msgid "dribbble"
+msgstr ""
+
+#: includes/icons.php:40
+msgid "edit"
+msgstr ""
+
+#: includes/icons.php:41
+msgid "envelope"
+msgstr ""
+
+#: includes/icons.php:42
+msgid "expand"
+msgstr ""
+
+#: includes/icons.php:43
+msgid "facebook"
+msgstr ""
+
+#: includes/icons.php:44
+msgid "flag"
+msgstr ""
+
+#: includes/icons.php:45
+msgid "focus"
+msgstr ""
+
+#: includes/icons.php:46
+msgid "gears"
+msgstr ""
+
+#: includes/icons.php:47
+msgid "genius"
+msgstr ""
+
+#: includes/icons.php:48
+msgid "gift"
+msgstr ""
+
+#: includes/icons.php:49
+msgid "global"
+msgstr ""
+
+#: includes/icons.php:50
+msgid "globe2"
+msgstr ""
+
+#: includes/icons.php:51
+msgid "googleplus"
+msgstr ""
+
+#: includes/icons.php:52
+msgid "grid"
+msgstr ""
+
+#: includes/icons.php:53
+msgid "happy"
+msgstr ""
+
+#: includes/icons.php:54
+msgid "hazardous"
+msgstr ""
+
+#: includes/icons.php:55
+msgid "heart2"
+msgstr ""
+
+#: includes/icons.php:56
+msgid "hotairballoon"
+msgstr ""
+
+#: includes/icons.php:57
+msgid "hourglass"
+msgstr ""
+
+#: includes/icons.php:58
+msgid "key"
+msgstr ""
+
+#: includes/icons.php:59
+msgid "laptop2"
+msgstr ""
+
+#: includes/icons.php:60
+msgid "layers"
+msgstr ""
+
+#: includes/icons.php:61
+msgid "lifesaver"
+msgstr ""
+
+#: includes/icons.php:62
+msgid "lightbulb"
+msgstr ""
+
+#: includes/icons.php:63
+msgid "linegraph"
+msgstr ""
+
+#: includes/icons.php:64
+msgid "linkedin"
+msgstr ""
+
+#: includes/icons.php:65
+msgid "lock"
+msgstr ""
+
+#: includes/icons.php:66
+msgid "magnifying"
+msgstr ""
+
+#: includes/icons.php:67 includes/icons.php:68
+msgid "map"
+msgstr ""
+
+#: includes/icons.php:69
+msgid "megaphone"
+msgstr ""
+
+#: includes/icons.php:70
+msgid "mic"
+msgstr ""
+
+#: includes/icons.php:71
+msgid "mobile"
+msgstr ""
+
+#: includes/icons.php:72
+msgid "newspaper"
+msgstr ""
+
+#: includes/icons.php:73
+msgid "notebook"
+msgstr ""
+
+#: includes/icons.php:74
+msgid "paintbrush"
+msgstr ""
+
+#: includes/icons.php:75
+msgid "paperclip"
+msgstr ""
+
+#: includes/icons.php:76
+msgid "pencil"
+msgstr ""
+
+#: includes/icons.php:77
+msgid "phone"
+msgstr ""
+
+#: includes/icons.php:78
+msgid "picture"
+msgstr ""
+
+#: includes/icons.php:79
+msgid "pictures"
+msgstr ""
+
+#: includes/icons.php:80
+msgid "piechart"
+msgstr ""
+
+#: includes/icons.php:81
+msgid "presentation"
+msgstr ""
+
+#: includes/icons.php:82
+msgid "pricetags"
+msgstr ""
+
+#: includes/icons.php:83
+msgid "printer2"
+msgstr ""
+
+#: includes/icons.php:84 includes/icons.php:85
+msgid "profile"
+msgstr ""
+
+#: includes/icons.php:86
+msgid "puzzle"
+msgstr ""
+
+#: includes/icons.php:87
+msgid "quote"
+msgstr ""
+
+#: includes/icons.php:88
+msgid "recycle"
+msgstr ""
+
+#: includes/icons.php:89
+msgid "refresh2"
+msgstr ""
+
+#: includes/icons.php:90
+msgid "ribbon"
+msgstr ""
+
+#: includes/icons.php:91
+msgid "rss"
+msgstr ""
+
+#: includes/icons.php:92
+msgid "sad"
+msgstr ""
+
+#: includes/icons.php:93
+msgid "scissors"
+msgstr ""
+
+#: includes/icons.php:94
+msgid "scope"
+msgstr ""
+
+#: includes/icons.php:95
+msgid "search"
+msgstr ""
+
+#: includes/icons.php:96
+msgid "shield"
+msgstr ""
+
+#: includes/icons.php:97
+msgid "speedometer"
+msgstr ""
+
+#: includes/icons.php:98
+msgid "strategy"
+msgstr ""
+
+#: includes/icons.php:99
+msgid "streetsign"
+msgstr ""
+
+#: includes/icons.php:100
+msgid "tablet"
+msgstr ""
+
+#: includes/icons.php:101
+msgid "telescope"
+msgstr ""
+
+#: includes/icons.php:102
+msgid "toolbox"
+msgstr ""
+
+#: includes/icons.php:103
+msgid "tools"
+msgstr ""
+
+#: includes/icons.php:104
+msgid "tools2"
+msgstr ""
+
+#: includes/icons.php:105
+msgid "traget"
+msgstr ""
+
+#: includes/icons.php:106
+msgid "trophy"
+msgstr ""
+
+#: includes/icons.php:107
+msgid "tumblr"
+msgstr ""
+
+#: includes/icons.php:108
+msgid "twitter"
+msgstr ""
+
+#: includes/icons.php:109
+msgid "upload"
+msgstr ""
+
+#: includes/icons.php:110
+msgid "video"
+msgstr ""
+
+#: includes/icons.php:111
+msgid "wallet"
+msgstr ""
+
+#: includes/icons.php:112
+msgid "wine"
+msgstr ""
+
+#: includes/icons.php:113
+msgid "apartment_building"
+msgstr ""
+
+#: includes/icons.php:114
+msgid "architectural_pen"
+msgstr ""
+
+#: includes/icons.php:115
+msgid "backpack"
+msgstr ""
+
+#: includes/icons.php:116
+msgid "bomb"
+msgstr ""
+
+#: includes/icons.php:117
+msgid "book_download"
+msgstr ""
+
+#: includes/icons.php:119
+msgid "briefcase"
+msgstr ""
+
+#: includes/icons.php:120
+msgid "browser"
+msgstr ""
+
+#: includes/icons.php:121
+msgid "buffet_tray"
+msgstr ""
+
+#: includes/icons.php:122
+msgid "camera_photo"
+msgstr ""
+
+#: includes/icons.php:123
+msgid "camera_video"
+msgstr ""
+
+#: includes/icons.php:124
+msgid "cap_chef"
+msgstr ""
+
+#: includes/icons.php:125
+msgid "cap_crown"
+msgstr ""
+
+#: includes/icons.php:126
+msgid "cap_hat"
+msgstr ""
+
+#: includes/icons.php:127
+msgid "car_carrer"
+msgstr ""
+
+#: includes/icons.php:128
+msgid "cart_down"
+msgstr ""
+
+#: includes/icons.php:129
+msgid "cart_up"
+msgstr ""
+
+#: includes/icons.php:130
+msgid "chair_sofa"
+msgstr ""
+
+#: includes/icons.php:131
+msgid "clock"
+msgstr ""
+
+#: includes/icons.php:132
+msgid "coffee_blander"
+msgstr ""
+
+#: includes/icons.php:133
+msgid "color_plate"
+msgstr ""
+
+#: includes/icons.php:134
+msgid "comment_favorite"
+msgstr ""
+
+#: includes/icons.php:135
+msgid "comment_with_dot"
+msgstr ""
+
+#: includes/icons.php:136
+msgid "computer_duel"
+msgstr ""
+
+#: includes/icons.php:137
+msgid "computer_imac_slim"
+msgstr ""
+
+#: includes/icons.php:138
+msgid "computer_imac_thick"
+msgstr ""
+
+#: includes/icons.php:139
+msgid "computer_monitor"
+msgstr ""
+
+#: includes/icons.php:140
+msgid "coverage"
+msgstr ""
+
+#: includes/icons.php:141
+msgid "crop"
+msgstr ""
+
+#: includes/icons.php:142
+msgid "dashboard_meter"
+msgstr ""
+
+#: includes/icons.php:143
+msgid "database"
+msgstr ""
+
+#: includes/icons.php:144
+msgid "device_ipad"
+msgstr ""
+
+#: includes/icons.php:145
+msgid "device_iphone"
+msgstr ""
+
+#: includes/icons.php:146
+msgid "device_ipod_earphone"
+msgstr ""
+
+#: includes/icons.php:147
+msgid "device_ipod_headphone"
+msgstr ""
+
+#: includes/icons.php:148
+msgid "device_ipod_nano"
+msgstr ""
+
+#: includes/icons.php:149
+msgid "diary"
+msgstr ""
+
+#: includes/icons.php:150
+msgid "envelope_back"
+msgstr ""
+
+#: includes/icons.php:151
+msgid "equalizer"
+msgstr ""
+
+#: includes/icons.php:152
+msgid "gear_wheel"
+msgstr ""
+
+#: includes/icons.php:153
+msgid "glass_coffee"
+msgstr ""
+
+#: includes/icons.php:154
+msgid "glass_juice"
+msgstr ""
+
+#: includes/icons.php:155
+msgid "globe"
+msgstr ""
+
+#: includes/icons.php:156
+msgid "grid_line"
+msgstr ""
+
+#: includes/icons.php:157
+msgid "hand_bag"
+msgstr ""
+
+#: includes/icons.php:158
+msgid "handbag"
+msgstr ""
+
+#: includes/icons.php:159
+msgid "head_phone"
+msgstr ""
+
+#: includes/icons.php:160
+msgid "heart"
+msgstr ""
+
+#: includes/icons.php:161
+msgid "home"
+msgstr ""
+
+#: includes/icons.php:162
+msgid "hot_dog"
+msgstr ""
+
+#: includes/icons.php:163
+msgid "ice_cream"
+msgstr ""
+
+#: includes/icons.php:164
+msgid "ink_feather"
+msgstr ""
+
+#: includes/icons.php:165
+msgid "input_injection"
+msgstr ""
+
+#: includes/icons.php:166
+msgid "jar_drop"
+msgstr ""
+
+#: includes/icons.php:167
+msgid "laptop_mac_book"
+msgstr ""
+
+#: includes/icons.php:168
+msgid "laptop"
+msgstr ""
+
+#: includes/icons.php:169
+msgid "link"
+msgstr ""
+
+#: includes/icons.php:170
+msgid "lock_close"
+msgstr ""
+
+#: includes/icons.php:171
+msgid "lock_open"
+msgstr ""
+
+#: includes/icons.php:172
+msgid "magic_wand"
+msgstr ""
+
+#: includes/icons.php:173
+msgid "magnet"
+msgstr ""
+
+#: includes/icons.php:174
+msgid "mail_envelope"
+msgstr ""
+
+#: includes/icons.php:175
+msgid "map_pointer"
+msgstr ""
+
+#: includes/icons.php:176
+msgid "multiple_paper"
+msgstr ""
+
+#: includes/icons.php:177
+msgid "mustache"
+msgstr ""
+
+#: includes/icons.php:178
+msgid "paint_brush_wall_roller"
+msgstr ""
+
+#: includes/icons.php:179
+msgid "paint_brush"
+msgstr ""
+
+#: includes/icons.php:180
+msgid "paper_pencil"
+msgstr ""
+
+#: includes/icons.php:181
+msgid "pen_fountain"
+msgstr ""
+
+#: includes/icons.php:182
+msgid "pen_point_rounded"
+msgstr ""
+
+#: includes/icons.php:183
+msgid "pen_point"
+msgstr ""
+
+#: includes/icons.php:184
+msgid "photo_frame"
+msgstr ""
+
+#: includes/icons.php:185
+msgid "pot_fire"
+msgstr ""
+
+#: includes/icons.php:186
+msgid "printer"
+msgstr ""
+
+#: includes/icons.php:187
+msgid "refresh"
+msgstr ""
+
+#: includes/icons.php:188
+msgid "remote"
+msgstr ""
+
+#: includes/icons.php:189
+msgid "seal"
+msgstr ""
+
+#: includes/icons.php:190
+msgid "shield_plus"
+msgstr ""
+
+#: includes/icons.php:191
+msgid "shoes"
+msgstr ""
+
+#: includes/icons.php:192
+msgid "skull"
+msgstr ""
+
+#: includes/icons.php:193
+msgid "smile_emoticon"
+msgstr ""
+
+#: includes/icons.php:194
+msgid "sound_note"
+msgstr ""
+
+#: includes/icons.php:195
+msgid "sound_recorder"
+msgstr ""
+
+#: includes/icons.php:196
+msgid "spoon_fork"
+msgstr ""
+
+#: includes/icons.php:197
+msgid "square_anchor_point"
+msgstr ""
+
+#: includes/icons.php:198
+msgid "support_tools"
+msgstr ""
+
+#: includes/icons.php:199
+msgid "support_underwater"
+msgstr ""
+
+#: includes/icons.php:200
+msgid "target_arrow"
+msgstr ""
+
+#: includes/icons.php:201
+msgid "tea_pot"
+msgstr ""
+
+#: includes/icons.php:202
+msgid "television_remote"
+msgstr ""
+
+#: includes/icons.php:203
+msgid "tools_creative"
+msgstr ""
+
+#: includes/icons.php:204
+msgid "tools_measurement"
+msgstr ""
+
+#: includes/icons.php:205
+msgid "trash"
+msgstr ""
+
+#: includes/icons.php:206
+msgid "tube_measurement"
+msgstr ""
+
+#: includes/icons.php:207
+msgid "umbralla"
+msgstr ""
+
+#: includes/icons.php:208
+msgid "user_comment"
+msgstr ""
+
+#: includes/icons.php:209
+msgid "user"
+msgstr ""
+
+#: includes/icons.php:210
+msgid "arrows_anticlockwise_dashed"
+msgstr ""
+
+#: includes/icons.php:211
+msgid "arrows_anticlockwise"
+msgstr ""
+
+#: includes/icons.php:212
+msgid "arrows_button_down"
+msgstr ""
+
+#: includes/icons.php:213
+msgid "arrows_button_off"
+msgstr ""
+
+#: includes/icons.php:214
+msgid "arrows_button_on"
+msgstr ""
+
+#: includes/icons.php:215
+msgid "arrows_button_up"
+msgstr ""
+
+#: includes/icons.php:216
+msgid "arrows_check"
+msgstr ""
+
+#: includes/icons.php:217
+msgid "arrows_circle_check"
+msgstr ""
+
+#: includes/icons.php:218
+msgid "arrows_circle_down"
+msgstr ""
+
+#: includes/icons.php:219
+msgid "arrows_circle_downleft"
+msgstr ""
+
+#: includes/icons.php:220
+msgid "arrows_circle_downright"
+msgstr ""
+
+#: includes/icons.php:221
+msgid "arrows_circle_left"
+msgstr ""
+
+#: includes/icons.php:222
+msgid "arrows_circle_minus"
+msgstr ""
+
+#: includes/icons.php:223
+msgid "arrows_circle_plus"
+msgstr ""
+
+#: includes/icons.php:224
+msgid "arrows_circle_remove"
+msgstr ""
+
+#: includes/icons.php:225
+msgid "arrows_circle_right"
+msgstr ""
+
+#: includes/icons.php:226
+msgid "arrows_circle_up"
+msgstr ""
+
+#: includes/icons.php:227
+msgid "arrows_circle_upleft"
+msgstr ""
+
+#: includes/icons.php:228
+msgid "arrows_circle_upright"
+msgstr ""
+
+#: includes/icons.php:229
+msgid "arrows_clockwise_dashed"
+msgstr ""
+
+#: includes/icons.php:230
+msgid "arrows_clockwise"
+msgstr ""
+
+#: includes/icons.php:231
+msgid "arrows_compress"
+msgstr ""
+
+#: includes/icons.php:232
+msgid "arrows_deny"
+msgstr ""
+
+#: includes/icons.php:233
+msgid "arrows_diagonal"
+msgstr ""
+
+#: includes/icons.php:234
+msgid "arrows_diagonal2"
+msgstr ""
+
+#: includes/icons.php:235
+msgid "arrows_down_double-34"
+msgstr ""
+
+#: includes/icons.php:236
+msgid "arrows_down"
+msgstr ""
+
+#: includes/icons.php:237
+msgid "arrows_downleft"
+msgstr ""
+
+#: includes/icons.php:238
+msgid "arrows_downright"
+msgstr ""
+
+#: includes/icons.php:239
+msgid "arrows_drag_down_dashed"
+msgstr ""
+
+#: includes/icons.php:240
+msgid "arrows_drag_down"
+msgstr ""
+
+#: includes/icons.php:241
+msgid "arrows_drag_horiz"
+msgstr ""
+
+#: includes/icons.php:242
+msgid "arrows_drag_left_dashed"
+msgstr ""
+
+#: includes/icons.php:243
+msgid "arrows_drag_left"
+msgstr ""
+
+#: includes/icons.php:244
+msgid "arrows_drag_right_dashed"
+msgstr ""
+
+#: includes/icons.php:245
+msgid "arrows_drag_right"
+msgstr ""
+
+#: includes/icons.php:246
+msgid "arrows_drag_up_dashed"
+msgstr ""
+
+#: includes/icons.php:247
+msgid "arrows_drag_up"
+msgstr ""
+
+#: includes/icons.php:248
+msgid "arrows_drag_vert"
+msgstr ""
+
+#: includes/icons.php:249
+msgid "arrows_exclamation"
+msgstr ""
+
+#: includes/icons.php:250
+msgid "arrows_expand_diagonal1"
+msgstr ""
+
+#: includes/icons.php:251
+msgid "arrows_expand_horizontal1"
+msgstr ""
+
+#: includes/icons.php:252
+msgid "arrows_expand_vertical1"
+msgstr ""
+
+#: includes/icons.php:253
+msgid "arrows_expand"
+msgstr ""
+
+#: includes/icons.php:254
+msgid "arrows_fit_horizontal"
+msgstr ""
+
+#: includes/icons.php:255
+msgid "arrows_fit_vertical"
+msgstr ""
+
+#: includes/icons.php:256
+msgid "arrows_glide_horizontal"
+msgstr ""
+
+#: includes/icons.php:257
+msgid "arrows_glide_vertical"
+msgstr ""
+
+#: includes/icons.php:258
+msgid "arrows_glide"
+msgstr ""
+
+#: includes/icons.php:259
+msgid "arrows_hamburger2"
+msgstr ""
+
+#: includes/icons.php:260
+msgid "arrows_hamburger1"
+msgstr ""
+
+#: includes/icons.php:261
+msgid "arrows_horizontal"
+msgstr ""
+
+#: includes/icons.php:262
+msgid "arrows_info"
+msgstr ""
+
+#: includes/icons.php:263
+msgid "arrows_keyboard_alt"
+msgstr ""
+
+#: includes/icons.php:264
+msgid "arrows_keyboard_cmd"
+msgstr ""
+
+#: includes/icons.php:265
+msgid "arrows_keyboard_delete"
+msgstr ""
+
+#: includes/icons.php:266
+msgid "arrows_keyboard_down"
+msgstr ""
+
+#: includes/icons.php:267
+msgid "arrows_keyboard_left"
+msgstr ""
+
+#: includes/icons.php:268
+msgid "arrows_keyboard_return"
+msgstr ""
+
+#: includes/icons.php:269
+msgid "arrows_keyboard_right"
+msgstr ""
+
+#: includes/icons.php:270
+msgid "arrows_keyboard_shift"
+msgstr ""
+
+#: includes/icons.php:271
+msgid "arrows_keyboard_tab"
+msgstr ""
+
+#: includes/icons.php:272
+msgid "arrows_keyboard_up"
+msgstr ""
+
+#: includes/icons.php:273
+msgid "arrows_left_double-32"
+msgstr ""
+
+#: includes/icons.php:274
+msgid "arrows_left"
+msgstr ""
+
+#: includes/icons.php:275
+msgid "arrows_minus"
+msgstr ""
+
+#: includes/icons.php:276
+msgid "arrows_move_bottom"
+msgstr ""
+
+#: includes/icons.php:277
+msgid "arrows_move_left"
+msgstr ""
+
+#: includes/icons.php:278
+msgid "arrows_move_right"
+msgstr ""
+
+#: includes/icons.php:279
+msgid "arrows_move_top"
+msgstr ""
+
+#: includes/icons.php:280
+msgid "arrows_move"
+msgstr ""
+
+#: includes/icons.php:281
+msgid "arrows_move2"
+msgstr ""
+
+#: includes/icons.php:282
+msgid "arrows_plus"
+msgstr ""
+
+#: includes/icons.php:283
+msgid "arrows_question"
+msgstr ""
+
+#: includes/icons.php:284
+msgid "arrows_remove"
+msgstr ""
+
+#: includes/icons.php:285
+msgid "arrows_right_double-31"
+msgstr ""
+
+#: includes/icons.php:286
+msgid "arrows_right"
+msgstr ""
+
+#: includes/icons.php:287
+msgid "arrows_rotate_anti_dashed"
+msgstr ""
+
+#: includes/icons.php:288
+msgid "arrows_rotate_anti"
+msgstr ""
+
+#: includes/icons.php:289
+msgid "arrows_rotate_dashed"
+msgstr ""
+
+#: includes/icons.php:290
+msgid "arrows_rotate"
+msgstr ""
+
+#: includes/icons.php:291
+msgid "arrows_shrink_diagonal1"
+msgstr ""
+
+#: includes/icons.php:292
+msgid "arrows_shrink_diagonal2"
+msgstr ""
+
+#: includes/icons.php:293
+msgid "arrows_shrink_horizonal2"
+msgstr ""
+
+#: includes/icons.php:294
+msgid "arrows_shrink_horizontal1"
+msgstr ""
+
+#: includes/icons.php:295
+msgid "arrows_shrink_vertical1"
+msgstr ""
+
+#: includes/icons.php:296
+msgid "arrows_shrink_vertical2"
+msgstr ""
+
+#: includes/icons.php:297
+msgid "arrows_shrink"
+msgstr ""
+
+#: includes/icons.php:298
+msgid "arrows_sign_down"
+msgstr ""
+
+#: includes/icons.php:299
+msgid "arrows_sign_left"
+msgstr ""
+
+#: includes/icons.php:300
+msgid "arrows_sign_right"
+msgstr ""
+
+#: includes/icons.php:301
+msgid "arrows_sign_up"
+msgstr ""
+
+#: includes/icons.php:302
+msgid "arrows_slide_down1"
+msgstr ""
+
+#: includes/icons.php:303
+msgid "arrows_slide_down2"
+msgstr ""
+
+#: includes/icons.php:304
+msgid "arrows_slide_left1"
+msgstr ""
+
+#: includes/icons.php:305
+msgid "arrows_slide_left2"
+msgstr ""
+
+#: includes/icons.php:306
+msgid "arrows_slide_right1"
+msgstr ""
+
+#: includes/icons.php:307
+msgid "arrows_slide_right2"
+msgstr ""
+
+#: includes/icons.php:308
+msgid "arrows_slide_up1"
+msgstr ""
+
+#: includes/icons.php:309
+msgid "arrows_slide_up2"
+msgstr ""
+
+#: includes/icons.php:310
+msgid "arrows_slim_down_dashed"
+msgstr ""
+
+#: includes/icons.php:311
+msgid "arrows_slim_down"
+msgstr ""
+
+#: includes/icons.php:312
+msgid "arrows_slim_left_dashed"
+msgstr ""
+
+#: includes/icons.php:313
+msgid "arrows_slim_left"
+msgstr ""
+
+#: includes/icons.php:314
+msgid "arrows_slim_right_dashed"
+msgstr ""
+
+#: includes/icons.php:315
+msgid "arrows_slim_right"
+msgstr ""
+
+#: includes/icons.php:316
+msgid "arrows_slim_up_dashed"
+msgstr ""
+
+#: includes/icons.php:317
+msgid "arrows_slim_up"
+msgstr ""
+
+#: includes/icons.php:318
+msgid "arrows_square_check"
+msgstr ""
+
+#: includes/icons.php:319
+msgid "arrows_square_down"
+msgstr ""
+
+#: includes/icons.php:320
+msgid "arrows_square_downleft"
+msgstr ""
+
+#: includes/icons.php:321
+msgid "arrows_square_downright"
+msgstr ""
+
+#: includes/icons.php:322
+msgid "arrows_square_left"
+msgstr ""
+
+#: includes/icons.php:323
+msgid "arrows_square_minus"
+msgstr ""
+
+#: includes/icons.php:324
+msgid "arrows_square_plus"
+msgstr ""
+
+#: includes/icons.php:325
+msgid "arrows_square_remove"
+msgstr ""
+
+#: includes/icons.php:326
+msgid "arrows_square_right"
+msgstr ""
+
+#: includes/icons.php:327
+msgid "arrows_square_up"
+msgstr ""
+
+#: includes/icons.php:328
+msgid "arrows_square_upleft"
+msgstr ""
+
+#: includes/icons.php:329
+msgid "arrows_square_upright"
+msgstr ""
+
+#: includes/icons.php:330
+msgid "arrows_squares"
+msgstr ""
+
+#: includes/icons.php:331
+msgid "arrows_stretch_diagonal1"
+msgstr ""
+
+#: includes/icons.php:332
+msgid "arrows_stretch_diagonal2"
+msgstr ""
+
+#: includes/icons.php:333
+msgid "arrows_stretch_diagonal3"
+msgstr ""
+
+#: includes/icons.php:334
+msgid "arrows_stretch_diagonal4"
+msgstr ""
+
+#: includes/icons.php:335
+msgid "arrows_stretch_horizontal1"
+msgstr ""
+
+#: includes/icons.php:336
+msgid "arrows_stretch_horizontal2"
+msgstr ""
+
+#: includes/icons.php:337
+msgid "arrows_stretch_vertical1"
+msgstr ""
+
+#: includes/icons.php:338
+msgid "arrows_stretch_vertical2"
+msgstr ""
+
+#: includes/icons.php:339
+msgid "arrows_switch_horizontal"
+msgstr ""
+
+#: includes/icons.php:340
+msgid "arrows_switch_vertical"
+msgstr ""
+
+#: includes/icons.php:341
+msgid "arrows_up_double-33"
+msgstr ""
+
+#: includes/icons.php:342
+msgid "arrows_up"
+msgstr ""
+
+#: includes/icons.php:343
+msgid "arrows_upleft"
+msgstr ""
+
+#: includes/icons.php:344
+msgid "arrows_upright"
+msgstr ""
+
+#: includes/icons.php:345
+msgid "arrows_vertical"
+msgstr ""
+
+#: includes/icons.php:346
+msgid "basic_accelerator"
+msgstr ""
+
+#: includes/icons.php:347
+msgid "basic_alarm"
+msgstr ""
+
+#: includes/icons.php:348
+msgid "basic_anchor"
+msgstr ""
+
+#: includes/icons.php:349
+msgid "basic_anticlockwise"
+msgstr ""
+
+#: includes/icons.php:350
+msgid "basic_archive_full"
+msgstr ""
+
+#: includes/icons.php:351
+msgid "basic_archive"
+msgstr ""
+
+#: includes/icons.php:352
+msgid "basic_ban"
+msgstr ""
+
+#: includes/icons.php:353
+msgid "basic_battery_charge"
+msgstr ""
+
+#: includes/icons.php:354
+msgid "basic_battery_empty"
+msgstr ""
+
+#: includes/icons.php:355
+msgid "basic_battery_full"
+msgstr ""
+
+#: includes/icons.php:356
+msgid "basic_battery_half"
+msgstr ""
+
+#: includes/icons.php:357
+msgid "basic_bolt"
+msgstr ""
+
+#: includes/icons.php:358
+msgid "basic_book_pen"
+msgstr ""
+
+#: includes/icons.php:359
+msgid "basic_book_pencil"
+msgstr ""
+
+#: includes/icons.php:360
+msgid "basic_book"
+msgstr ""
+
+#: includes/icons.php:361
+msgid "basic_bookmark"
+msgstr ""
+
+#: includes/icons.php:362
+msgid "basic_calculator"
+msgstr ""
+
+#: includes/icons.php:363
+msgid "basic_calendar"
+msgstr ""
+
+#: includes/icons.php:364
+msgid "basic_cards_diamonds"
+msgstr ""
+
+#: includes/icons.php:365
+msgid "basic_cards_hearts"
+msgstr ""
+
+#: includes/icons.php:366
+msgid "basic_case"
+msgstr ""
+
+#: includes/icons.php:367
+msgid "basic_chronometer"
+msgstr ""
+
+#: includes/icons.php:368
+msgid "basic_clessidre"
+msgstr ""
+
+#: includes/icons.php:369
+msgid "basic_clock"
+msgstr ""
+
+#: includes/icons.php:370
+msgid "basic_clockwise"
+msgstr ""
+
+#: includes/icons.php:371
+msgid "basic_cloud"
+msgstr ""
+
+#: includes/icons.php:372
+msgid "basic_clubs"
+msgstr ""
+
+#: includes/icons.php:373
+msgid "basic_compass"
+msgstr ""
+
+#: includes/icons.php:374
+msgid "basic_cup"
+msgstr ""
+
+#: includes/icons.php:375
+msgid "basic_diamonds"
+msgstr ""
+
+#: includes/icons.php:376
+msgid "basic_display"
+msgstr ""
+
+#: includes/icons.php:377
+msgid "basic_download"
+msgstr ""
+
+#: includes/icons.php:378
+msgid "basic_elaboration_bookmark_checck"
+msgstr ""
+
+#: includes/icons.php:379
+msgid "basic_elaboration_bookmark_minus"
+msgstr ""
+
+#: includes/icons.php:380
+msgid "basic_elaboration_bookmark_plus"
+msgstr ""
+
+#: includes/icons.php:381
+msgid "basic_elaboration_bookmark_remove"
+msgstr ""
+
+#: includes/icons.php:382
+msgid "basic_elaboration_briefcase_check"
+msgstr ""
+
+#: includes/icons.php:383
+msgid "basic_elaboration_briefcase_download"
+msgstr ""
+
+#: includes/icons.php:384
+msgid "basic_elaboration_briefcase_flagged"
+msgstr ""
+
+#: includes/icons.php:385
+msgid "basic_elaboration_briefcase_minus"
+msgstr ""
+
+#: includes/icons.php:386
+msgid "basic_elaboration_briefcase_plus"
+msgstr ""
+
+#: includes/icons.php:387
+msgid "basic_elaboration_briefcase_refresh"
+msgstr ""
+
+#: includes/icons.php:388
+msgid "basic_elaboration_briefcase_remove"
+msgstr ""
+
+#: includes/icons.php:389
+msgid "basic_elaboration_briefcase_search"
+msgstr ""
+
+#: includes/icons.php:390
+msgid "basic_elaboration_briefcase_star"
+msgstr ""
+
+#: includes/icons.php:391
+msgid "basic_elaboration_briefcase_upload"
+msgstr ""
+
+#: includes/icons.php:392
+msgid "basic_elaboration_browser_check"
+msgstr ""
+
+#: includes/icons.php:393
+msgid "basic_elaboration_browser_download"
+msgstr ""
+
+#: includes/icons.php:394
+msgid "basic_elaboration_browser_minus"
+msgstr ""
+
+#: includes/icons.php:395
+msgid "basic_elaboration_browser_plus"
+msgstr ""
+
+#: includes/icons.php:396
+msgid "basic_elaboration_browser_refresh"
+msgstr ""
+
+#: includes/icons.php:397
+msgid "basic_elaboration_browser_remove"
+msgstr ""
+
+#: includes/icons.php:398
+msgid "basic_elaboration_browser_search"
+msgstr ""
+
+#: includes/icons.php:399
+msgid "basic_elaboration_browser_star"
+msgstr ""
+
+#: includes/icons.php:400
+msgid "basic_elaboration_browser_upload"
+msgstr ""
+
+#: includes/icons.php:401
+msgid "basic_elaboration_calendar_check"
+msgstr ""
+
+#: includes/icons.php:402
+msgid "basic_elaboration_calendar_cloud"
+msgstr ""
+
+#: includes/icons.php:403
+msgid "basic_elaboration_calendar_download"
+msgstr ""
+
+#: includes/icons.php:404
+msgid "basic_elaboration_calendar_empty"
+msgstr ""
+
+#: includes/icons.php:405
+msgid "basic_elaboration_calendar_flagged"
+msgstr ""
+
+#: includes/icons.php:406
+msgid "basic_elaboration_calendar_heart"
+msgstr ""
+
+#: includes/icons.php:407
+msgid "basic_elaboration_calendar_minus"
+msgstr ""
+
+#: includes/icons.php:408
+msgid "basic_elaboration_calendar_next"
+msgstr ""
+
+#: includes/icons.php:409
+msgid "basic_elaboration_calendar_noaccess"
+msgstr ""
+
+#: includes/icons.php:410
+msgid "basic_elaboration_calendar_pencil"
+msgstr ""
+
+#: includes/icons.php:411
+msgid "basic_elaboration_calendar_plus"
+msgstr ""
+
+#: includes/icons.php:412
+msgid "basic_elaboration_calendar_previous"
+msgstr ""
+
+#: includes/icons.php:413
+msgid "basic_elaboration_calendar_refresh"
+msgstr ""
+
+#: includes/icons.php:414
+msgid "basic_elaboration_calendar_remove"
+msgstr ""
+
+#: includes/icons.php:415
+msgid "basic_elaboration_calendar_search"
+msgstr ""
+
+#: includes/icons.php:416
+msgid "basic_elaboration_calendar_star"
+msgstr ""
+
+#: includes/icons.php:417
+msgid "basic_elaboration_calendar_upload"
+msgstr ""
+
+#: includes/icons.php:418
+msgid "basic_elaboration_cloud_check"
+msgstr ""
+
+#: includes/icons.php:419
+msgid "basic_elaboration_cloud_download"
+msgstr ""
+
+#: includes/icons.php:420
+msgid "basic_elaboration_cloud_minus"
+msgstr ""
+
+#: includes/icons.php:421
+msgid "basic_elaboration_cloud_noaccess"
+msgstr ""
+
+#: includes/icons.php:422
+msgid "basic_elaboration_cloud_plus"
+msgstr ""
+
+#: includes/icons.php:423
+msgid "basic_elaboration_cloud_refresh"
+msgstr ""
+
+#: includes/icons.php:424
+msgid "basic_elaboration_cloud_remove"
+msgstr ""
+
+#: includes/icons.php:425
+msgid "basic_elaboration_cloud_search"
+msgstr ""
+
+#: includes/icons.php:426
+msgid "basic_elaboration_cloud_upload"
+msgstr ""
+
+#: includes/icons.php:427
+msgid "basic_elaboration_document_check"
+msgstr ""
+
+#: includes/icons.php:428
+msgid "basic_elaboration_document_cloud"
+msgstr ""
+
+#: includes/icons.php:429
+msgid "basic_elaboration_document_download"
+msgstr ""
+
+#: includes/icons.php:430
+msgid "basic_elaboration_document_flagged"
+msgstr ""
+
+#: includes/icons.php:431
+msgid "basic_elaboration_document_graph"
+msgstr ""
+
+#: includes/icons.php:432
+msgid "basic_elaboration_document_heart"
+msgstr ""
+
+#: includes/icons.php:433
+msgid "basic_elaboration_document_minus"
+msgstr ""
+
+#: includes/icons.php:434
+msgid "basic_elaboration_document_next"
+msgstr ""
+
+#: includes/icons.php:435
+msgid "basic_elaboration_document_noaccess"
+msgstr ""
+
+#: includes/icons.php:436
+msgid "basic_elaboration_document_note"
+msgstr ""
+
+#: includes/icons.php:437
+msgid "basic_elaboration_document_pencil"
+msgstr ""
+
+#: includes/icons.php:438
+msgid "basic_elaboration_document_picture"
+msgstr ""
+
+#: includes/icons.php:439
+msgid "basic_elaboration_document_plus"
+msgstr ""
+
+#: includes/icons.php:440
+msgid "basic_elaboration_document_previous"
+msgstr ""
+
+#: includes/icons.php:441
+msgid "basic_elaboration_document_refresh"
+msgstr ""
+
+#: includes/icons.php:442
+msgid "basic_elaboration_document_remove"
+msgstr ""
+
+#: includes/icons.php:443
+msgid "basic_elaboration_document_search"
+msgstr ""
+
+#: includes/icons.php:444
+msgid "basic_elaboration_document_star"
+msgstr ""
+
+#: includes/icons.php:445
+msgid "basic_elaboration_document_upload"
+msgstr ""
+
+#: includes/icons.php:446
+msgid "basic_elaboration_folder_check"
+msgstr ""
+
+#: includes/icons.php:447
+msgid "basic_elaboration_folder_cloud"
+msgstr ""
+
+#: includes/icons.php:448
+msgid "basic_elaboration_folder_document"
+msgstr ""
+
+#: includes/icons.php:449
+msgid "basic_elaboration_folder_download"
+msgstr ""
+
+#: includes/icons.php:450
+msgid "basic_elaboration_folder_flagged"
+msgstr ""
+
+#: includes/icons.php:451
+msgid "basic_elaboration_folder_graph"
+msgstr ""
+
+#: includes/icons.php:452
+msgid "basic_elaboration_folder_heart"
+msgstr ""
+
+#: includes/icons.php:453
+msgid "basic_elaboration_folder_minus"
+msgstr ""
+
+#: includes/icons.php:454
+msgid "basic_elaboration_folder_next"
+msgstr ""
+
+#: includes/icons.php:455
+msgid "basic_elaboration_folder_noaccess"
+msgstr ""
+
+#: includes/icons.php:456
+msgid "basic_elaboration_folder_note"
+msgstr ""
+
+#: includes/icons.php:457
+msgid "basic_elaboration_folder_pencil"
+msgstr ""
+
+#: includes/icons.php:458
+msgid "basic_elaboration_folder_picture"
+msgstr ""
+
+#: includes/icons.php:459
+msgid "basic_elaboration_folder_plus"
+msgstr ""
+
+#: includes/icons.php:460
+msgid "basic_elaboration_folder_previous"
+msgstr ""
+
+#: includes/icons.php:461
+msgid "basic_elaboration_folder_refresh"
+msgstr ""
+
+#: includes/icons.php:462
+msgid "basic_elaboration_folder_remove"
+msgstr ""
+
+#: includes/icons.php:463
+msgid "basic_elaboration_folder_search"
+msgstr ""
+
+#: includes/icons.php:464
+msgid "basic_elaboration_folder_star"
+msgstr ""
+
+#: includes/icons.php:465
+msgid "basic_elaboration_folder_upload"
+msgstr ""
+
+#: includes/icons.php:466
+msgid "basic_elaboration_mail_check"
+msgstr ""
+
+#: includes/icons.php:467
+msgid "basic_elaboration_mail_cloud"
+msgstr ""
+
+#: includes/icons.php:468
+msgid "basic_elaboration_mail_document"
+msgstr ""
+
+#: includes/icons.php:469
+msgid "basic_elaboration_mail_download"
+msgstr ""
+
+#: includes/icons.php:470
+msgid "basic_elaboration_mail_flagged"
+msgstr ""
+
+#: includes/icons.php:471
+msgid "basic_elaboration_mail_heart"
+msgstr ""
+
+#: includes/icons.php:472
+msgid "basic_elaboration_mail_next"
+msgstr ""
+
+#: includes/icons.php:473
+msgid "basic_elaboration_mail_noaccess"
+msgstr ""
+
+#: includes/icons.php:474
+msgid "basic_elaboration_mail_note"
+msgstr ""
+
+#: includes/icons.php:475
+msgid "basic_elaboration_mail_pencil"
+msgstr ""
+
+#: includes/icons.php:476
+msgid "basic_elaboration_mail_picture"
+msgstr ""
+
+#: includes/icons.php:477
+msgid "basic_elaboration_mail_previous"
+msgstr ""
+
+#: includes/icons.php:478
+msgid "basic_elaboration_mail_refresh"
+msgstr ""
+
+#: includes/icons.php:479
+msgid "basic_elaboration_mail_remove"
+msgstr ""
+
+#: includes/icons.php:480
+msgid "basic_elaboration_mail_search"
+msgstr ""
+
+#: includes/icons.php:481
+msgid "basic_elaboration_mail_star"
+msgstr ""
+
+#: includes/icons.php:482
+msgid "basic_elaboration_mail_upload"
+msgstr ""
+
+#: includes/icons.php:483
+msgid "basic_elaboration_message_check"
+msgstr ""
+
+#: includes/icons.php:484
+msgid "basic_elaboration_message_dots"
+msgstr ""
+
+#: includes/icons.php:485
+msgid "basic_elaboration_message_happy"
+msgstr ""
+
+#: includes/icons.php:486
+msgid "basic_elaboration_message_heart"
+msgstr ""
+
+#: includes/icons.php:487
+msgid "basic_elaboration_message_minus"
+msgstr ""
+
+#: includes/icons.php:488
+msgid "basic_elaboration_message_note"
+msgstr ""
+
+#: includes/icons.php:489
+msgid "basic_elaboration_message_plus"
+msgstr ""
+
+#: includes/icons.php:490
+msgid "basic_elaboration_message_refresh"
+msgstr ""
+
+#: includes/icons.php:491
+msgid "basic_elaboration_message_remove"
+msgstr ""
+
+#: includes/icons.php:492
+msgid "basic_elaboration_message_sad"
+msgstr ""
+
+#: includes/icons.php:493
+msgid "basic_elaboration_smartphone_cloud"
+msgstr ""
+
+#: includes/icons.php:494
+msgid "basic_elaboration_smartphone_heart"
+msgstr ""
+
+#: includes/icons.php:495
+msgid "basic_elaboration_smartphone_noaccess"
+msgstr ""
+
+#: includes/icons.php:496
+msgid "basic_elaboration_smartphone_note"
+msgstr ""
+
+#: includes/icons.php:497
+msgid "basic_elaboration_smartphone_pencil"
+msgstr ""
+
+#: includes/icons.php:498
+msgid "basic_elaboration_smartphone_picture"
+msgstr ""
+
+#: includes/icons.php:499
+msgid "basic_elaboration_smartphone_refresh"
+msgstr ""
+
+#: includes/icons.php:500
+msgid "basic_elaboration_smartphone_search"
+msgstr ""
+
+#: includes/icons.php:501
+msgid "basic_elaboration_tablet_cloud"
+msgstr ""
+
+#: includes/icons.php:502
+msgid "basic_elaboration_tablet_heart"
+msgstr ""
+
+#: includes/icons.php:503
+msgid "basic_elaboration_tablet_noaccess"
+msgstr ""
+
+#: includes/icons.php:504
+msgid "basic_elaboration_tablet_note"
+msgstr ""
+
+#: includes/icons.php:505
+msgid "basic_elaboration_tablet_pencil"
+msgstr ""
+
+#: includes/icons.php:506
+msgid "basic_elaboration_tablet_picture"
+msgstr ""
+
+#: includes/icons.php:507
+msgid "basic_elaboration_tablet_refresh"
+msgstr ""
+
+#: includes/icons.php:508
+msgid "basic_elaboration_tablet_search"
+msgstr ""
+
+#: includes/icons.php:509
+msgid "basic_elaboration_todolist_2"
+msgstr ""
+
+#: includes/icons.php:510
+msgid "basic_elaboration_todolist_check"
+msgstr ""
+
+#: includes/icons.php:511
+msgid "basic_elaboration_todolist_cloud"
+msgstr ""
+
+#: includes/icons.php:512
+msgid "basic_elaboration_todolist_download"
+msgstr ""
+
+#: includes/icons.php:513
+msgid "basic_elaboration_todolist_flagged"
+msgstr ""
+
+#: includes/icons.php:514
+msgid "basic_elaboration_todolist_minus"
+msgstr ""
+
+#: includes/icons.php:515
+msgid "basic_elaboration_todolist_noaccess"
+msgstr ""
+
+#: includes/icons.php:516
+msgid "basic_elaboration_todolist_pencil"
+msgstr ""
+
+#: includes/icons.php:517
+msgid "basic_elaboration_todolist_plus"
+msgstr ""
+
+#: includes/icons.php:518
+msgid "basic_elaboration_todolist_refresh"
+msgstr ""
+
+#: includes/icons.php:519
+msgid "basic_elaboration_todolist_remove"
+msgstr ""
+
+#: includes/icons.php:520
+msgid "basic_elaboration_todolist_search"
+msgstr ""
+
+#: includes/icons.php:521
+msgid "basic_elaboration_todolist_star"
+msgstr ""
+
+#: includes/icons.php:522
+msgid "basic_elaboration_todolist_upload"
+msgstr ""
+
+#: includes/icons.php:523
+msgid "basic_exclamation"
+msgstr ""
+
+#: includes/icons.php:524
+msgid "basic_eye_closed"
+msgstr ""
+
+#: includes/icons.php:525
+msgid "basic_eye"
+msgstr ""
+
+#: includes/icons.php:526
+msgid "basic_female"
+msgstr ""
+
+#: includes/icons.php:527
+msgid "basic_flag1"
+msgstr ""
+
+#: includes/icons.php:528
+msgid "basic_flag2"
+msgstr ""
+
+#: includes/icons.php:529
+msgid "basic_floppydisk"
+msgstr ""
+
+#: includes/icons.php:530
+msgid "basic_folder_multiple"
+msgstr ""
+
+#: includes/icons.php:531
+msgid "basic_folder"
+msgstr ""
+
+#: includes/icons.php:532
+msgid "basic_gear"
+msgstr ""
+
+#: includes/icons.php:533 includes/icons.php:534
+msgid "basic_geolocalize"
+msgstr ""
+
+#: includes/icons.php:535
+msgid "basic_globe"
+msgstr ""
+
+#: includes/icons.php:536
+msgid "basic_gunsight"
+msgstr ""
+
+#: includes/icons.php:537
+msgid "basic_hammer"
+msgstr ""
+
+#: includes/icons.php:538
+msgid "basic_headset"
+msgstr ""
+
+#: includes/icons.php:539
+msgid "basic_heart_broken"
+msgstr ""
+
+#: includes/icons.php:540
+msgid "basic_heart"
+msgstr ""
+
+#: includes/icons.php:541
+msgid "basic_helm"
+msgstr ""
+
+#: includes/icons.php:542
+msgid "basic_home"
+msgstr ""
+
+#: includes/icons.php:543
+msgid "basic_info"
+msgstr ""
+
+#: includes/icons.php:544
+msgid "basic_ipod"
+msgstr ""
+
+#: includes/icons.php:545
+msgid "basic_joypad"
+msgstr ""
+
+#: includes/icons.php:546
+msgid "basic_key"
+msgstr ""
+
+#: includes/icons.php:547
+msgid "basic_keyboard"
+msgstr ""
+
+#: includes/icons.php:548
+msgid "basic_laptop"
+msgstr ""
+
+#: includes/icons.php:549
+msgid "basic_life_buoy"
+msgstr ""
+
+#: includes/icons.php:550
+msgid "basic_lightbulb"
+msgstr ""
+
+#: includes/icons.php:551
+msgid "basic_link"
+msgstr ""
+
+#: includes/icons.php:552
+msgid "basic_lock_open"
+msgstr ""
+
+#: includes/icons.php:553
+msgid "basic_lock"
+msgstr ""
+
+#: includes/icons.php:554
+msgid "basic_magic_mouse"
+msgstr ""
+
+#: includes/icons.php:555
+msgid "basic_magnifier_minus"
+msgstr ""
+
+#: includes/icons.php:556
+msgid "basic_magnifier_plus"
+msgstr ""
+
+#: includes/icons.php:557
+msgid "basic_magnifier"
+msgstr ""
+
+#: includes/icons.php:558
+msgid "basic_mail_multiple"
+msgstr ""
+
+#: includes/icons.php:559
+msgid "basic_mail_open_text"
+msgstr ""
+
+#: includes/icons.php:560
+msgid "basic_mail_open"
+msgstr ""
+
+#: includes/icons.php:561
+msgid "basic_mail"
+msgstr ""
+
+#: includes/icons.php:562
+msgid "basic_male"
+msgstr ""
+
+#: includes/icons.php:563
+msgid "basic_map"
+msgstr ""
+
+#: includes/icons.php:564
+msgid "basic_message_multiple"
+msgstr ""
+
+#: includes/icons.php:565
+msgid "basic_message_txt"
+msgstr ""
+
+#: includes/icons.php:566
+msgid "basic_message"
+msgstr ""
+
+#: includes/icons.php:567
+msgid "basic_mixer2"
+msgstr ""
+
+#: includes/icons.php:568
+msgid "basic_mouse"
+msgstr ""
+
+#: includes/icons.php:569
+msgid "basic_notebook_pen"
+msgstr ""
+
+#: includes/icons.php:570
+msgid "basic_notebook_pencil"
+msgstr ""
+
+#: includes/icons.php:571
+msgid "basic_notebook"
+msgstr ""
+
+#: includes/icons.php:572
+msgid "basic_paperplane"
+msgstr ""
+
+#: includes/icons.php:573
+msgid "basic_pencil_ruler_pen"
+msgstr ""
+
+#: includes/icons.php:574
+msgid "basic_pencil_ruler"
+msgstr ""
+
+#: includes/icons.php:575
+msgid "basic_photo"
+msgstr ""
+
+#: includes/icons.php:576
+msgid "basic_picture_multiple"
+msgstr ""
+
+#: includes/icons.php:577
+msgid "basic_picture"
+msgstr ""
+
+#: includes/icons.php:578
+msgid "basic_pin1"
+msgstr ""
+
+#: includes/icons.php:579
+msgid "basic_pin2"
+msgstr ""
+
+#: includes/icons.php:580
+msgid "basic_postcard_multiple"
+msgstr ""
+
+#: includes/icons.php:581
+msgid "basic_postcard"
+msgstr ""
+
+#: includes/icons.php:582
+msgid "basic_printer"
+msgstr ""
+
+#: includes/icons.php:583
+msgid "basic_question"
+msgstr ""
+
+#: includes/icons.php:584
+msgid "basic_rss"
+msgstr ""
+
+#: includes/icons.php:585
+msgid "basic_server_cloud"
+msgstr ""
+
+#: includes/icons.php:586
+msgid "basic_server_download"
+msgstr ""
+
+#: includes/icons.php:587
+msgid "basic_server_upload"
+msgstr ""
+
+#: includes/icons.php:588
+msgid "basic_server"
+msgstr ""
+
+#: includes/icons.php:589
+msgid "basic_server2"
+msgstr ""
+
+#: includes/icons.php:590
+msgid "basic_settings"
+msgstr ""
+
+#: includes/icons.php:591
+msgid "basic_share"
+msgstr ""
+
+#: includes/icons.php:592
+msgid "basic_sheet_multiple"
+msgstr ""
+
+#: includes/icons.php:593
+msgid "basic_sheet_pen"
+msgstr ""
+
+#: includes/icons.php:594
+msgid "basic_sheet_pencil"
+msgstr ""
+
+#: includes/icons.php:595
+msgid "basic_sheet_txt"
+msgstr ""
+
+#: includes/icons.php:596
+msgid "basic_sheet"
+msgstr ""
+
+#: includes/icons.php:597
+msgid "basic_signs"
+msgstr ""
+
+#: includes/icons.php:598
+msgid "basic_smartphone"
+msgstr ""
+
+#: includes/icons.php:599
+msgid "basic_spades"
+msgstr ""
+
+#: includes/icons.php:600
+msgid "basic_spread_bookmark"
+msgstr ""
+
+#: includes/icons.php:601
+msgid "basic_spread_text_bookmark"
+msgstr ""
+
+#: includes/icons.php:602
+msgid "basic_spread_text"
+msgstr ""
+
+#: includes/icons.php:603
+msgid "basic_spread"
+msgstr ""
+
+#: includes/icons.php:604
+msgid "basic_star"
+msgstr ""
+
+#: includes/icons.php:605
+msgid "basic_tablet"
+msgstr ""
+
+#: includes/icons.php:606
+msgid "basic_target"
+msgstr ""
+
+#: includes/icons.php:607
+msgid "basic_todo_pen"
+msgstr ""
+
+#: includes/icons.php:608
+msgid "basic_todo_pencil"
+msgstr ""
+
+#: includes/icons.php:609
+msgid "basic_todo_txt"
+msgstr ""
+
+#: includes/icons.php:610
+msgid "basic_todo"
+msgstr ""
+
+#: includes/icons.php:611
+msgid "basic_todolist_pen"
+msgstr ""
+
+#: includes/icons.php:612
+msgid "basic_todolist_pencil"
+msgstr ""
+
+#: includes/icons.php:613
+msgid "basic_trashcan_full"
+msgstr ""
+
+#: includes/icons.php:614
+msgid "basic_trashcan_refresh"
+msgstr ""
+
+#: includes/icons.php:615
+msgid "basic_trashcan_remove"
+msgstr ""
+
+#: includes/icons.php:616
+msgid "basic_trashcan"
+msgstr ""
+
+#: includes/icons.php:617
+msgid "basic_upload"
+msgstr ""
+
+#: includes/icons.php:618
+msgid "basic_usb"
+msgstr ""
+
+#: includes/icons.php:619
+msgid "basic_video"
+msgstr ""
+
+#: includes/icons.php:620
+msgid "basic_watch"
+msgstr ""
+
+#: includes/icons.php:621
+msgid "basic_webpage_img_txt"
+msgstr ""
+
+#: includes/icons.php:622
+msgid "basic_webpage_multiple"
+msgstr ""
+
+#: includes/icons.php:623
+msgid "basic_webpage_txt"
+msgstr ""
+
+#: includes/icons.php:624
+msgid "basic_webpage"
+msgstr ""
+
+#: includes/icons.php:625
+msgid "basic_world"
+msgstr ""
+
+#: includes/icons.php:626
+msgid "ecommerce_bag_check"
+msgstr ""
+
+#: includes/icons.php:627
+msgid "ecommerce_bag_cloud"
+msgstr ""
+
+#: includes/icons.php:628
+msgid "ecommerce_bag_download"
+msgstr ""
+
+#: includes/icons.php:629
+msgid "ecommerce_bag_minus"
+msgstr ""
+
+#: includes/icons.php:630
+msgid "ecommerce_bag_plus"
+msgstr ""
+
+#: includes/icons.php:631
+msgid "ecommerce_bag_refresh"
+msgstr ""
+
+#: includes/icons.php:632
+msgid "ecommerce_bag_remove"
+msgstr ""
+
+#: includes/icons.php:633
+msgid "ecommerce_bag_search"
+msgstr ""
+
+#: includes/icons.php:634
+msgid "ecommerce_bag_upload"
+msgstr ""
+
+#: includes/icons.php:635
+msgid "ecommerce_bag"
+msgstr ""
+
+#: includes/icons.php:636
+msgid "ecommerce_banknote"
+msgstr ""
+
+#: includes/icons.php:637
+msgid "ecommerce_banknotes"
+msgstr ""
+
+#: includes/icons.php:638
+msgid "ecommerce_basket_check"
+msgstr ""
+
+#: includes/icons.php:639
+msgid "ecommerce_basket_cloud"
+msgstr ""
+
+#: includes/icons.php:640
+msgid "ecommerce_basket_download"
+msgstr ""
+
+#: includes/icons.php:641
+msgid "ecommerce_basket_minus"
+msgstr ""
+
+#: includes/icons.php:642
+msgid "ecommerce_basket_plus"
+msgstr ""
+
+#: includes/icons.php:643
+msgid "ecommerce_basket_refresh"
+msgstr ""
+
+#: includes/icons.php:644
+msgid "ecommerce_basket_remove"
+msgstr ""
+
+#: includes/icons.php:645
+msgid "ecommerce_basket_search"
+msgstr ""
+
+#: includes/icons.php:646
+msgid "ecommerce_basket_upload"
+msgstr ""
+
+#: includes/icons.php:647
+msgid "ecommerce_basket"
+msgstr ""
+
+#: includes/icons.php:648
+msgid "ecommerce_bath"
+msgstr ""
+
+#: includes/icons.php:649
+msgid "ecommerce_cart_check"
+msgstr ""
+
+#: includes/icons.php:650
+msgid "ecommerce_cart_cloud"
+msgstr ""
+
+#: includes/icons.php:651
+msgid "ecommerce_cart_content"
+msgstr ""
+
+#: includes/icons.php:652
+msgid "ecommerce_cart_download"
+msgstr ""
+
+#: includes/icons.php:653
+msgid "ecommerce_cart_minus"
+msgstr ""
+
+#: includes/icons.php:654
+msgid "ecommerce_cart_plus"
+msgstr ""
+
+#: includes/icons.php:655
+msgid "ecommerce_cart_refresh"
+msgstr ""
+
+#: includes/icons.php:656
+msgid "ecommerce_cart_remove"
+msgstr ""
+
+#: includes/icons.php:657
+msgid "ecommerce_cart_search"
+msgstr ""
+
+#: includes/icons.php:658
+msgid "ecommerce_cart_upload"
+msgstr ""
+
+#: includes/icons.php:659
+msgid "ecommerce_cart"
+msgstr ""
+
+#: includes/icons.php:660
+msgid "ecommerce_cent"
+msgstr ""
+
+#: includes/icons.php:661
+msgid "ecommerce_colon"
+msgstr ""
+
+#: includes/icons.php:662
+msgid "ecommerce_creditcard"
+msgstr ""
+
+#: includes/icons.php:663
+msgid "ecommerce_diamond"
+msgstr ""
+
+#: includes/icons.php:664
+msgid "ecommerce_dollar"
+msgstr ""
+
+#: includes/icons.php:665
+msgid "ecommerce_euro"
+msgstr ""
+
+#: includes/icons.php:666
+msgid "ecommerce_franc"
+msgstr ""
+
+#: includes/icons.php:667
+msgid "ecommerce_gift"
+msgstr ""
+
+#: includes/icons.php:668
+msgid "ecommerce_graph_decrease"
+msgstr ""
+
+#: includes/icons.php:669
+msgid "ecommerce_graph_increase"
+msgstr ""
+
+#: includes/icons.php:670
+msgid "ecommerce_graph1"
+msgstr ""
+
+#: includes/icons.php:671
+msgid "ecommerce_graph2"
+msgstr ""
+
+#: includes/icons.php:672
+msgid "ecommerce_graph3"
+msgstr ""
+
+#: includes/icons.php:673
+msgid "ecommerce_guarani"
+msgstr ""
+
+#: includes/icons.php:674
+msgid "ecommerce_kips"
+msgstr ""
+
+#: includes/icons.php:675
+msgid "ecommerce_lira"
+msgstr ""
+
+#: includes/icons.php:676
+msgid "ecommerce_megaphone"
+msgstr ""
+
+#: includes/icons.php:677
+msgid "ecommerce_money"
+msgstr ""
+
+#: includes/icons.php:678
+msgid "ecommerce_naira"
+msgstr ""
+
+#: includes/icons.php:679
+msgid "ecommerce_pesos"
+msgstr ""
+
+#: includes/icons.php:680
+msgid "ecommerce_pound"
+msgstr ""
+
+#: includes/icons.php:681
+msgid "ecommerce_receipt_bath"
+msgstr ""
+
+#: includes/icons.php:682
+msgid "ecommerce_receipt_cent"
+msgstr ""
+
+#: includes/icons.php:683
+msgid "ecommerce_receipt_dollar"
+msgstr ""
+
+#: includes/icons.php:684
+msgid "ecommerce_receipt_euro"
+msgstr ""
+
+#: includes/icons.php:685
+msgid "ecommerce_receipt_franc"
+msgstr ""
+
+#: includes/icons.php:686
+msgid "ecommerce_receipt_guarani"
+msgstr ""
+
+#: includes/icons.php:687
+msgid "ecommerce_receipt_kips"
+msgstr ""
+
+#: includes/icons.php:688
+msgid "ecommerce_receipt_lira"
+msgstr ""
+
+#: includes/icons.php:689
+msgid "ecommerce_receipt_naira"
+msgstr ""
+
+#: includes/icons.php:690
+msgid "ecommerce_receipt_pesos"
+msgstr ""
+
+#: includes/icons.php:691
+msgid "ecommerce_receipt_pound"
+msgstr ""
+
+#: includes/icons.php:692
+msgid "ecommerce_receipt_rublo"
+msgstr ""
+
+#: includes/icons.php:693
+msgid "ecommerce_receipt_rupee"
+msgstr ""
+
+#: includes/icons.php:694
+msgid "ecommerce_receipt_tugrik"
+msgstr ""
+
+#: includes/icons.php:695
+msgid "ecommerce_receipt_won"
+msgstr ""
+
+#: includes/icons.php:696
+msgid "ecommerce_receipt_yen"
+msgstr ""
+
+#: includes/icons.php:697
+msgid "ecommerce_receipt_yen2"
+msgstr ""
+
+#: includes/icons.php:698
+msgid "ecommerce_receipt"
+msgstr ""
+
+#: includes/icons.php:699
+msgid "ecommerce_recept_colon"
+msgstr ""
+
+#: includes/icons.php:700
+msgid "ecommerce_rublo"
+msgstr ""
+
+#: includes/icons.php:701
+msgid "ecommerce_rupee"
+msgstr ""
+
+#: includes/icons.php:702
+msgid "ecommerce_safe"
+msgstr ""
+
+#: includes/icons.php:703
+msgid "ecommerce_sale"
+msgstr ""
+
+#: includes/icons.php:704
+msgid "ecommerce_sales"
+msgstr ""
+
+#: includes/icons.php:705
+msgid "ecommerce_ticket"
+msgstr ""
+
+#: includes/icons.php:706
+msgid "ecommerce_tugriks"
+msgstr ""
+
+#: includes/icons.php:707
+msgid "ecommerce_wallet"
+msgstr ""
+
+#: includes/icons.php:708
+msgid "ecommerce_won"
+msgstr ""
+
+#: includes/icons.php:709
+msgid "ecommerce_yen"
+msgstr ""
+
+#: includes/icons.php:710
+msgid "ecommerce_yen2"
+msgstr ""
+
+#: includes/icons.php:711
+msgid "music_beginning_button"
+msgstr ""
+
+#: includes/icons.php:712
+msgid "music_bell"
+msgstr ""
+
+#: includes/icons.php:713
+msgid "music_cd"
+msgstr ""
+
+#: includes/icons.php:714
+msgid "music_diapason"
+msgstr ""
+
+#: includes/icons.php:715
+msgid "music_eject_button"
+msgstr ""
+
+#: includes/icons.php:716
+msgid "music_end_button"
+msgstr ""
+
+#: includes/icons.php:717
+msgid "music_fastforward_button"
+msgstr ""
+
+#: includes/icons.php:718
+msgid "music_headphones"
+msgstr ""
+
+#: includes/icons.php:719
+msgid "music_ipod"
+msgstr ""
+
+#: includes/icons.php:720
+msgid "music_loudspeaker"
+msgstr ""
+
+#: includes/icons.php:721
+msgid "music_microphone_old"
+msgstr ""
+
+#: includes/icons.php:722
+msgid "music_microphone"
+msgstr ""
+
+#: includes/icons.php:723
+msgid "music_mixer"
+msgstr ""
+
+#: includes/icons.php:724
+msgid "music_mute"
+msgstr ""
+
+#: includes/icons.php:725
+msgid "music_note_multiple"
+msgstr ""
+
+#: includes/icons.php:726
+msgid "music_note_single"
+msgstr ""
+
+#: includes/icons.php:727
+msgid "music_pause_button"
+msgstr ""
+
+#: includes/icons.php:728
+msgid "music_play_button"
+msgstr ""
+
+#: includes/icons.php:729
+msgid "music_playlist"
+msgstr ""
+
+#: includes/icons.php:730
+msgid "music_radio_ghettoblaster"
+msgstr ""
+
+#: includes/icons.php:731
+msgid "music_radio_portable"
+msgstr ""
+
+#: includes/icons.php:732
+msgid "music_record"
+msgstr ""
+
+#: includes/icons.php:733
+msgid "music_recordplayer"
+msgstr ""
+
+#: includes/icons.php:734
+msgid "music_repeat_button"
+msgstr ""
+
+#: includes/icons.php:735
+msgid "music_rewind_button"
+msgstr ""
+
+#: includes/icons.php:736
+msgid "music_shuffle_button"
+msgstr ""
+
+#: includes/icons.php:737
+msgid "music_stop_button"
+msgstr ""
+
+#: includes/icons.php:738
+msgid "music_tape"
+msgstr ""
+
+#: includes/icons.php:739
+msgid "music_volume_down"
+msgstr ""
+
+#: includes/icons.php:740
+msgid "music_volume_up"
+msgstr ""
+
+#: includes/icons.php:741
+msgid "software_add_vectorpoint"
+msgstr ""
+
+#: includes/icons.php:742
+msgid "software_box_oval"
+msgstr ""
+
+#: includes/icons.php:743
+msgid "software_box_polygon"
+msgstr ""
+
+#: includes/icons.php:744
+msgid "software_box_rectangle"
+msgstr ""
+
+#: includes/icons.php:745
+msgid "software_box_roundedrectangle"
+msgstr ""
+
+#: includes/icons.php:746
+msgid "software_character"
+msgstr ""
+
+#: includes/icons.php:747
+msgid "software_crop"
+msgstr ""
+
+#: includes/icons.php:748
+msgid "software_eyedropper"
+msgstr ""
+
+#: includes/icons.php:749
+msgid "software_font_allcaps"
+msgstr ""
+
+#: includes/icons.php:750
+msgid "software_font_baseline_shift"
+msgstr ""
+
+#: includes/icons.php:751
+msgid "software_font_horizontal_scale"
+msgstr ""
+
+#: includes/icons.php:752
+msgid "software_font_kerning"
+msgstr ""
+
+#: includes/icons.php:753
+msgid "software_font_leading"
+msgstr ""
+
+#: includes/icons.php:754
+msgid "software_font_size"
+msgstr ""
+
+#: includes/icons.php:755
+msgid "software_font_smallcapital"
+msgstr ""
+
+#: includes/icons.php:756
+msgid "software_font_smallcaps"
+msgstr ""
+
+#: includes/icons.php:757
+msgid "software_font_strikethrough"
+msgstr ""
+
+#: includes/icons.php:758
+msgid "software_font_tracking"
+msgstr ""
+
+#: includes/icons.php:759
+msgid "software_font_underline"
+msgstr ""
+
+#: includes/icons.php:760
+msgid "software_font_vertical_scale"
+msgstr ""
+
+#: includes/icons.php:761
+msgid "software_horizontal_align_center"
+msgstr ""
+
+#: includes/icons.php:762
+msgid "software_horizontal_align_right"
+msgstr ""
+
+#: includes/icons.php:763
+msgid "software_horizontal_distribute_center"
+msgstr ""
+
+#: includes/icons.php:764
+msgid "software_horizontal_distribute_left"
+msgstr ""
+
+#: includes/icons.php:765
+msgid "software_horizontal_distribute_right"
+msgstr ""
+
+#: includes/icons.php:766
+msgid "software_indent_firstline"
+msgstr ""
+
+#: includes/icons.php:767
+msgid "software_indent_left"
+msgstr ""
+
+#: includes/icons.php:768
+msgid "software_indent_right"
+msgstr ""
+
+#: includes/icons.php:769
+msgid "software_lasso"
+msgstr ""
+
+#: includes/icons.php:770
+msgid "software_layers1"
+msgstr ""
+
+#: includes/icons.php:771
+msgid "software_layers2"
+msgstr ""
+
+#: includes/icons.php:772
+msgid "software_layout_2columns"
+msgstr ""
+
+#: includes/icons.php:773
+msgid "software_layout_3columns"
+msgstr ""
+
+#: includes/icons.php:774
+msgid "software_layout_4boxes"
+msgstr ""
+
+#: includes/icons.php:775
+msgid "software_layout_4columns"
+msgstr ""
+
+#: includes/icons.php:776
+msgid "software_layout_4lines"
+msgstr ""
+
+#: includes/icons.php:777
+msgid "software_layout_header_2columns"
+msgstr ""
+
+#: includes/icons.php:778
+msgid "software_layout_header_3columns"
+msgstr ""
+
+#: includes/icons.php:779
+msgid "software_layout_header_4boxes"
+msgstr ""
+
+#: includes/icons.php:780
+msgid "software_layout_header_4columns"
+msgstr ""
+
+#: includes/icons.php:781
+msgid "software_layout_header_complex"
+msgstr ""
+
+#: includes/icons.php:782
+msgid "software_layout_header_complex2"
+msgstr ""
+
+#: includes/icons.php:783
+msgid "software_layout_header_complex3"
+msgstr ""
+
+#: includes/icons.php:784
+msgid "software_layout_header_complex4"
+msgstr ""
+
+#: includes/icons.php:785
+msgid "software_layout_header_sideleft"
+msgstr ""
+
+#: includes/icons.php:786
+msgid "software_layout_header_sideright"
+msgstr ""
+
+#: includes/icons.php:787
+msgid "software_layout_header"
+msgstr ""
+
+#: includes/icons.php:788
+msgid "software_layout_sidebar_left"
+msgstr ""
+
+#: includes/icons.php:789
+msgid "software_layout_sidebar_right"
+msgstr ""
+
+#: includes/icons.php:790
+msgid "software_layout-8boxes"
+msgstr ""
+
+#: includes/icons.php:791
+msgid "software_layout"
+msgstr ""
+
+#: includes/icons.php:792
+msgid "software_magnete"
+msgstr ""
+
+#: includes/icons.php:793
+msgid "software_pages"
+msgstr ""
+
+#: includes/icons.php:794
+msgid "software_paintbrush"
+msgstr ""
+
+#: includes/icons.php:795
+msgid "software_paintbucket"
+msgstr ""
+
+#: includes/icons.php:796
+msgid "software_paintroller"
+msgstr ""
+
+#: includes/icons.php:797
+msgid "software_paragraph_align_left"
+msgstr ""
+
+#: includes/icons.php:798
+msgid "software_paragraph_align_right"
+msgstr ""
+
+#: includes/icons.php:799
+msgid "software_paragraph_center"
+msgstr ""
+
+#: includes/icons.php:800
+msgid "software_paragraph_justify_all"
+msgstr ""
+
+#: includes/icons.php:801
+msgid "software_paragraph_justify_center"
+msgstr ""
+
+#: includes/icons.php:802
+msgid "software_paragraph_justify_left"
+msgstr ""
+
+#: includes/icons.php:803
+msgid "software_paragraph_justify_right"
+msgstr ""
+
+#: includes/icons.php:804
+msgid "software_paragraph_space_after"
+msgstr ""
+
+#: includes/icons.php:805
+msgid "software_paragraph_space_before"
+msgstr ""
+
+#: includes/icons.php:806
+msgid "software_paragraph"
+msgstr ""
+
+#: includes/icons.php:807
+msgid "software_pathfinder_exclude"
+msgstr ""
+
+#: includes/icons.php:808
+msgid "software_pathfinder_intersect"
+msgstr ""
+
+#: includes/icons.php:809
+msgid "software_pathfinder_subtract"
+msgstr ""
+
+#: includes/icons.php:810
+msgid "software_pathfinder_unite"
+msgstr ""
+
+#: includes/icons.php:811
+msgid "software_pen_add"
+msgstr ""
+
+#: includes/icons.php:812
+msgid "software_pen_remove"
+msgstr ""
+
+#: includes/icons.php:813
+msgid "software_pen"
+msgstr ""
+
+#: includes/icons.php:814
+msgid "software_pencil"
+msgstr ""
+
+#: includes/icons.php:815
+msgid "software_polygonallasso"
+msgstr ""
+
+#: includes/icons.php:816
+msgid "software_reflect_horizontal"
+msgstr ""
+
+#: includes/icons.php:817
+msgid "software_reflect_vertical"
+msgstr ""
+
+#: includes/icons.php:818
+msgid "software_remove_vectorpoint"
+msgstr ""
+
+#: includes/icons.php:819
+msgid "software_scale_expand"
+msgstr ""
+
+#: includes/icons.php:820
+msgid "software_scale_reduce"
+msgstr ""
+
+#: includes/icons.php:821
+msgid "software_selection_oval"
+msgstr ""
+
+#: includes/icons.php:822
+msgid "software_selection_polygon"
+msgstr ""
+
+#: includes/icons.php:823
+msgid "software_selection_rectangle"
+msgstr ""
+
+#: includes/icons.php:824
+msgid "software_selection_roundedrectangle"
+msgstr ""
+
+#: includes/icons.php:825
+msgid "software_shape_oval"
+msgstr ""
+
+#: includes/icons.php:826
+msgid "software_shape_polygon"
+msgstr ""
+
+#: includes/icons.php:827
+msgid "software_shape_rectangle"
+msgstr ""
+
+#: includes/icons.php:828
+msgid "software_shape_roundedrectangle"
+msgstr ""
+
+#: includes/icons.php:829
+msgid "software_slice"
+msgstr ""
+
+#: includes/icons.php:830
+msgid "software_transform_bezier"
+msgstr ""
+
+#: includes/icons.php:831
+msgid "software_vector_box"
+msgstr ""
+
+#: includes/icons.php:832
+msgid "software_vector_composite"
+msgstr ""
+
+#: includes/icons.php:833
+msgid "software_vector_line"
+msgstr ""
+
+#: includes/icons.php:834
+msgid "software_vertical_align_bottom"
+msgstr ""
+
+#: includes/icons.php:835
+msgid "software_vertical_align_center"
+msgstr ""
+
+#: includes/icons.php:836
+msgid "software_vertical_align_top"
+msgstr ""
+
+#: includes/icons.php:837
+msgid "software_vertical_distribute_bottom"
+msgstr ""
+
+#: includes/icons.php:838
+msgid "software_vertical_distribute_center"
+msgstr ""
+
+#: includes/icons.php:839
+msgid "software_vertical_distribute_top"
+msgstr ""
+
+#: includes/icons.php:840
+msgid "software"
+msgstr ""
+
+#: includes/icons.php:841
+msgid "weather_aquarius"
+msgstr ""
+
+#: includes/icons.php:842
+msgid "weather_aries"
+msgstr ""
+
+#: includes/icons.php:843
+msgid "weather_cancer"
+msgstr ""
+
+#: includes/icons.php:844
+msgid "weather_capricorn"
+msgstr ""
+
+#: includes/icons.php:845
+msgid "weather_cloud_drop"
+msgstr ""
+
+#: includes/icons.php:846
+msgid "weather_cloud_lightning"
+msgstr ""
+
+#: includes/icons.php:847
+msgid "weather_cloud_snowflake"
+msgstr ""
+
+#: includes/icons.php:848
+msgid "weather_cloud"
+msgstr ""
+
+#: includes/icons.php:849
+msgid "weather_downpour_fullmoon"
+msgstr ""
+
+#: includes/icons.php:850
+msgid "weather_downpour_halfmoon"
+msgstr ""
+
+#: includes/icons.php:851
+msgid "weather_downpour_sun"
+msgstr ""
+
+#: includes/icons.php:852
+msgid "weather_drop"
+msgstr ""
+
+#: includes/icons.php:853
+msgid "weather_first_quarter"
+msgstr ""
+
+#: includes/icons.php:854
+msgid "weather_fog_fullmoon"
+msgstr ""
+
+#: includes/icons.php:855
+msgid "weather_fog_halfmoon"
+msgstr ""
+
+#: includes/icons.php:856
+msgid "weather_fog_sun"
+msgstr ""
+
+#: includes/icons.php:857
+msgid "weather_fog"
+msgstr ""
+
+#: includes/icons.php:858
+msgid "weather_fullmoon"
+msgstr ""
+
+#: includes/icons.php:859
+msgid "weather_gemini"
+msgstr ""
+
+#: includes/icons.php:860
+msgid "weather_hail_fullmoon"
+msgstr ""
+
+#: includes/icons.php:861
+msgid "weather_hail_halfmoon"
+msgstr ""
+
+#: includes/icons.php:862
+msgid "weather_hail_sun"
+msgstr ""
+
+#: includes/icons.php:863
+msgid "weather_hail"
+msgstr ""
+
+#: includes/icons.php:864
+msgid "weather_last_quarter"
+msgstr ""
+
+#: includes/icons.php:865
+msgid "weather_leo"
+msgstr ""
+
+#: includes/icons.php:866
+msgid "weather_libra"
+msgstr ""
+
+#: includes/icons.php:867
+msgid "weather_lightning"
+msgstr ""
+
+#: includes/icons.php:868
+msgid "weather_mistyrain_fullmoon"
+msgstr ""
+
+#: includes/icons.php:869
+msgid "weather_mistyrain_halfmoon"
+msgstr ""
+
+#: includes/icons.php:870
+msgid "weather_mistyrain_sun"
+msgstr ""
+
+#: includes/icons.php:871
+msgid "weather_mistyrain"
+msgstr ""
+
+#: includes/icons.php:872
+msgid "weather_moon"
+msgstr ""
+
+#: includes/icons.php:873
+msgid "weather_moondown_full"
+msgstr ""
+
+#: includes/icons.php:874
+msgid "weather_moondown_half"
+msgstr ""
+
+#: includes/icons.php:875
+msgid "weather_moonset_full"
+msgstr ""
+
+#: includes/icons.php:876
+msgid "weather_moonset_half"
+msgstr ""
+
+#: includes/icons.php:877
+msgid "weather_move2"
+msgstr ""
+
+#: includes/icons.php:878
+msgid "weather_newmoon"
+msgstr ""
+
+#: includes/icons.php:879
+msgid "weather_pisces"
+msgstr ""
+
+#: includes/icons.php:880
+msgid "weather_rain_fullmoon"
+msgstr ""
+
+#: includes/icons.php:881
+msgid "weather_rain_halfmoon"
+msgstr ""
+
+#: includes/icons.php:882
+msgid "weather_rain_sun"
+msgstr ""
+
+#: includes/icons.php:883
+msgid "weather_rain"
+msgstr ""
+
+#: includes/icons.php:884
+msgid "weather_sagittarius"
+msgstr ""
+
+#: includes/icons.php:885
+msgid "weather_scorpio"
+msgstr ""
+
+#: includes/icons.php:886
+msgid "weather_snow_fullmoon"
+msgstr ""
+
+#: includes/icons.php:887
+msgid "weather_snow_halfmoon"
+msgstr ""
+
+#: includes/icons.php:888
+msgid "weather_snow_sun"
+msgstr ""
+
+#: includes/icons.php:889
+msgid "weather_snow"
+msgstr ""
+
+#: includes/icons.php:890
+msgid "weather_snowflake"
+msgstr ""
+
+#: includes/icons.php:891
+msgid "weather_star"
+msgstr ""
+
+#: includes/icons.php:892
+msgid "weather_storm_fullmoon"
+msgstr ""
+
+#: includes/icons.php:893
+msgid "weather_storm_halfmoon"
+msgstr ""
+
+#: includes/icons.php:894
+msgid "weather_storm_sun"
+msgstr ""
+
+#: includes/icons.php:895
+msgid "weather_storm-11"
+msgstr ""
+
+#: includes/icons.php:896
+msgid "weather_storm-32"
+msgstr ""
+
+#: includes/icons.php:897
+msgid "weather_sun"
+msgstr ""
+
+#: includes/icons.php:898
+msgid "weather_sundown"
+msgstr ""
+
+#: includes/icons.php:899
+msgid "weather_sunset"
+msgstr ""
+
+#: includes/icons.php:900
+msgid "weather_taurus"
+msgstr ""
+
+#: includes/icons.php:901
+msgid "weather_tempest_fullmoon"
+msgstr ""
+
+#: includes/icons.php:902
+msgid "weather_tempest_halfmoon"
+msgstr ""
+
+#: includes/icons.php:903
+msgid "weather_tempest_sun"
+msgstr ""
+
+#: includes/icons.php:904
+msgid "weather_tempest"
+msgstr ""
+
+#: includes/icons.php:905
+msgid "weather_variable_fullmoon"
+msgstr ""
+
+#: includes/icons.php:906
+msgid "weather_variable_halfmoon"
+msgstr ""
+
+#: includes/icons.php:907
+msgid "weather_variable_sun"
+msgstr ""
+
+#: includes/icons.php:908
+msgid "weather_virgo"
+msgstr ""
+
+#: includes/icons.php:909
+msgid "weather_waning_cresent"
+msgstr ""
+
+#: includes/icons.php:910
+msgid "weather_waning_gibbous"
+msgstr ""
+
+#: includes/icons.php:911
+msgid "weather_waxing_cresent"
+msgstr ""
+
+#: includes/icons.php:912
+msgid "weather_waxing_gibbous"
+msgstr ""
+
+#: includes/icons.php:913
+msgid "weather_wind_E"
+msgstr ""
+
+#: includes/icons.php:914
+msgid "weather_wind_fullmoon"
+msgstr ""
+
+#: includes/icons.php:915
+msgid "weather_wind_halfmoon"
+msgstr ""
+
+#: includes/icons.php:916
+msgid "weather_wind_N"
+msgstr ""
+
+#: includes/icons.php:917
+msgid "weather_wind_NE"
+msgstr ""
+
+#: includes/icons.php:918
+msgid "weather_wind_NW"
+msgstr ""
+
+#: includes/icons.php:919
+msgid "weather_wind_S"
+msgstr ""
+
+#: includes/icons.php:920
+msgid "weather_wind_SE"
+msgstr ""
+
+#: includes/icons.php:921
+msgid "weather_wind_sun"
+msgstr ""
+
+#: includes/icons.php:922
+msgid "weather_wind_SW"
+msgstr ""
+
+#: includes/icons.php:923
+msgid "weather_wind_W"
+msgstr ""
+
+#: includes/icons.php:924
+msgid "weather_wind"
+msgstr ""
+
+#: includes/icons.php:925
+msgid "weather_windgust"
+msgstr ""
+
+#: shortcodes/accordion/class-accordion.php:25
+msgid "Accordion Item"
+msgstr ""
+
+#: shortcodes/accordion/class-accordion.php:33
+#: shortcodes/career/class-career.php:37
+#: shortcodes/career-info/class-career-info.php:33
+#: shortcodes/carousel/class-carousel.php:49
+#: shortcodes/featuredbox/class-featuredbox.php:114
+#: shortcodes/heading/class-heading.php:115
+#: shortcodes/page-title/class-page-title.php:132
+#: shortcodes/posts/class-posts.php:97
+#: shortcodes/promo-box/class-promo-box.php:137
+#: shortcodes/subscribe/class-subscribe.php:179 shortcodes/tab/class-tab.php:33
+#: shortcodes/team/class-team.php:128
+msgid "Title"
+msgstr ""
+
+#: shortcodes/accordion/class-accordion.php:40
+#: shortcodes/animated-image/class-animated-image.php:74
+#: shortcodes/featuredbox/class-featuredbox.php:120
+#: shortcodes/tab/class-tab.php:40
+msgid "Content"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:132
+msgid "Accordions"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:134
+#: shortcodes/animated-text/class-animated-text.php:27
+#: shortcodes/animated-text/class-animated-text.php:50
+#: shortcodes/animated-text/class-animated-text.php:98
+#: shortcodes/banner/class-banner.php:27 shortcodes/career/class-career.php:27
+#: shortcodes/career-info/class-career-info.php:28
+#: shortcodes/carousel/class-carousel.php:27
+#: shortcodes/clients-container/class-clients-container.php:27
+#: shortcodes/countdown/class-countdown.php:77
+#: shortcodes/divider/class-divider.php:72
+#: shortcodes/gallery/class-gallery.php:27
+#: shortcodes/heading/class-heading.php:93 shortcodes/list/class-list.php:27
+#: shortcodes/package/class-package.php:28
+#: shortcodes/page-title/class-page-title.php:117
+#: shortcodes/portfolio/class-portfolio.php:27
+#: shortcodes/posts/class-posts.php:27
+#: shortcodes/pricing-table/class-pricing-table.php:27
+#: shortcodes/progressbars/class-progressbars.php:27
+#: shortcodes/promo-box/class-promo-box.php:99
+#: shortcodes/slider/class-slider.php:27
+#: shortcodes/subscribe/class-subscribe.php:141
+#: shortcodes/tabs-container/class-tabs-container.php:82
+#: shortcodes/team/class-team.php:54
+#: shortcodes/testimonials-container/class-testimonials-container.php:66
+#: shortcodes/timeline/class-timeline.php:76
+#: shortcodes/timeline-event/class-timeline-event.php:28
+msgid "Massive"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:144
+msgid "Accordions Style"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:146
+msgid "Chose massive accordions style"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:149
+#: shortcodes/timeline/class-timeline.php:74
+msgid "Timeline"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:150
+msgid "Bar"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:155
+msgid "Toggle Mode"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:160
+#: shortcodes/accordions-container/class-accordions-container.php:171
+#: shortcodes/featuredbox/class-featuredbox.php:157
+#: shortcodes/tabs-container/class-tabs-container.php:108
+#: shortcodes/testimonials-container/class-testimonials-container.php:91
+msgid "Customize"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:162
+#: shortcodes/accordions-container/class-accordions-container.php:173
+#: shortcodes/tabs-container/class-tabs-container.php:110
+msgid "Check this box to activate custom settings"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:182
+#: shortcodes/accordions-container/class-accordions-container.php:277
+#: shortcodes/heading/class-heading.php:123
+#: shortcodes/page-title/class-page-title.php:173
+#: shortcodes/promo-box/class-promo-box.php:175
+#: shortcodes/subscribe/class-subscribe.php:231
+#: shortcodes/tabs-container/class-tabs-container.php:115
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:184
+#: shortcodes/accordions-container/class-accordions-container.php:194
+#: shortcodes/accordions-container/class-accordions-container.php:204
+#: shortcodes/accordions-container/class-accordions-container.php:214
+#: shortcodes/accordions-container/class-accordions-container.php:224
+#: shortcodes/accordions-container/class-accordions-container.php:234
+#: shortcodes/accordions-container/class-accordions-container.php:244
+#: shortcodes/accordions-container/class-accordions-container.php:259
+#: shortcodes/accordions-container/class-accordions-container.php:269
+#: shortcodes/accordions-container/class-accordions-container.php:279
+#: shortcodes/accordions-container/class-accordions-container.php:289
+#: shortcodes/accordions-container/class-accordions-container.php:299
+#: shortcodes/accordions-container/class-accordions-container.php:309
+#: shortcodes/accordions-container/class-accordions-container.php:319
+#: shortcodes/accordions-container/class-accordions-container.php:329
+#: shortcodes/accordions-container/class-accordions-container.php:339
+#: shortcodes/alert/class-alert.php:128 shortcodes/alert/class-alert.php:139
+#: shortcodes/alert/class-alert.php:150 shortcodes/button/class-button.php:207
+#: shortcodes/button/class-button.php:218
+#: shortcodes/button/class-button.php:229
+#: shortcodes/button/class-button.php:240
+#: shortcodes/button/class-button.php:251
+#: shortcodes/button/class-button.php:270
+#: shortcodes/button/class-button.php:288
+#: shortcodes/button/class-button.php:299
+#: shortcodes/page-title/class-page-title.php:175
+#: shortcodes/page-title/class-page-title.php:185
+#: shortcodes/page-title/class-page-title.php:195
+#: shortcodes/page-title/class-page-title.php:205
+#: shortcodes/page-title/class-page-title.php:215
+#: shortcodes/page-title/class-page-title.php:226
+#: shortcodes/page-title/class-page-title.php:240
+#: shortcodes/page-title/class-page-title.php:250
+#: shortcodes/page-title/class-page-title.php:266
+#: shortcodes/page-title/class-page-title.php:280
+#: shortcodes/promo-box/class-promo-box.php:177
+#: shortcodes/promo-box/class-promo-box.php:187
+#: shortcodes/promo-box/class-promo-box.php:197
+#: shortcodes/promo-box/class-promo-box.php:207
+#: shortcodes/promo-box/class-promo-box.php:217
+#: shortcodes/promo-box/class-promo-box.php:227
+#: shortcodes/promo-box/class-promo-box.php:238
+#: shortcodes/promo-box/class-promo-box.php:253
+#: shortcodes/promo-box/class-promo-box.php:264
+#: shortcodes/promo-box/class-promo-box.php:281
+#: shortcodes/promo-box/class-promo-box.php:297
+#: shortcodes/promo-box/class-promo-box.php:311
+#: shortcodes/promo-box/class-promo-box.php:322
+#: shortcodes/promo-box/class-promo-box.php:333
+#: shortcodes/tabs-container/class-tabs-container.php:117
+#: shortcodes/tabs-container/class-tabs-container.php:128
+#: shortcodes/tabs-container/class-tabs-container.php:139
+#: shortcodes/tabs-container/class-tabs-container.php:150
+#: shortcodes/tabs-container/class-tabs-container.php:161
+#: shortcodes/tabs-container/class-tabs-container.php:172
+#: shortcodes/tabs-container/class-tabs-container.php:183
+#: shortcodes/tabs-container/class-tabs-container.php:194
+#: shortcodes/timeline/class-timeline.php:100
+#: shortcodes/timeline/class-timeline.php:111
+#: shortcodes/timeline/class-timeline.php:123
+#: shortcodes/timeline/class-timeline.php:134
+#: shortcodes/timeline/class-timeline.php:145
+#: shortcodes/timeline/class-timeline.php:157
+#: shortcodes/timeline/class-timeline.php:168
+#: shortcodes/timeline/class-timeline.php:179
+msgid "Custom Settings"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:192
+#: shortcodes/accordions-container/class-accordions-container.php:287
+#: shortcodes/tabs-container/class-tabs-container.php:126
+msgid "Title Hover & Active Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:202
+#: shortcodes/accordions-container/class-accordions-container.php:317
+#: shortcodes/divider/class-divider.php:151
+#: shortcodes/featuredbox/class-featuredbox.php:182
+#: shortcodes/testimonials-container/class-testimonials-container.php:127
+#: shortcodes/timeline/class-timeline.php:120
+msgid "Icon Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:212
+#: shortcodes/accordions-container/class-accordions-container.php:327
+msgid "Icon Hover & Active Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:222
+#: shortcodes/divider/class-divider.php:161
+#: shortcodes/timeline/class-timeline.php:131
+msgid "Icon Background Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:232
+msgid "Icon Background Hover & Active Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:242
+msgid "Timeline Style"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:246
+#: shortcodes/divider/class-divider.php:81
+msgid "Solid"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:247
+#: shortcodes/divider/class-divider.php:83
+msgid "Dashed"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:248
+msgid "Dotted"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:257
+msgid "Timeline Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:267
+#: shortcodes/accordions-container/class-accordions-container.php:337
+#: shortcodes/tabs-container/class-tabs-container.php:159
+msgid "Content Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:297
+msgid "Bar Color"
+msgstr ""
+
+#: shortcodes/accordions-container/class-accordions-container.php:307
+msgid "Bar Hover & Active Color"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:47
+msgid "Alert"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:54
+msgid "Alert Type"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:59
+msgid "Information"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:60 shortcodes/button/class-button.php:126
+msgid "Success"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:61 shortcodes/button/class-button.php:127
+msgid "Warning"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:62 shortcodes/button/class-button.php:128
+msgid "Danger"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:63 shortcodes/button/class-button.php:80
+#: shortcodes/funfactor/class-funfactor.php:85
+#: shortcodes/heading/class-heading.php:130
+#: shortcodes/heading/class-heading.php:156
+#: shortcodes/heading/class-heading.php:193
+#: shortcodes/page-title/class-page-title.php:127
+#: shortcodes/progressbar/class-progressbar.php:122
+#: shortcodes/promo-box/class-promo-box.php:112
+#: shortcodes/subscribe/class-subscribe.php:154
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:68
+msgid "Alert Message"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:71
+msgid "Alert message goes here."
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:75
+msgid "Background Style"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:89 shortcodes/alert/class-alert.php:98
+#: shortcodes/button/class-button.php:163 shortcodes/career/class-career.php:48
+#: shortcodes/divider/class-divider.php:115 shortcodes/tab/class-tab.php:45
+msgid "Display Icon"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:107 shortcodes/button/class-button.php:168
+#: shortcodes/career/class-career.php:54
+#: shortcodes/featuredbox/class-featuredbox.php:128
+#: shortcodes/featuredbox/class-featuredbox.php:134
+#: shortcodes/funfactor/class-funfactor.php:101
+#: shortcodes/list/class-list.php:74 shortcodes/tab/class-tab.php:51
+#: shortcodes/testimonial/class-testimonial.php:58
+#: shortcodes/timeline-event/class-timeline-event.php:57
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:116
+msgid "Select icon from Font Awesome library."
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:120
+msgid "Display Close Button"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:125 shortcodes/button/class-button.php:206
+#: shortcodes/countdown/class-countdown.php:108
+#: shortcodes/countdown/class-countdown.php:162
+#: shortcodes/featuredbox/class-featuredbox.php:172
+msgid "Text Color"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:127
+msgid "Pick a color for alert message text."
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:136 shortcodes/button/class-button.php:228
+#: shortcodes/countdown/class-countdown.php:150
+#: shortcodes/countdown/class-countdown.php:195
+#: shortcodes/page-title/class-page-title.php:278
+#: shortcodes/promo-box/class-promo-box.php:309
+#: shortcodes/subscribe/class-subscribe.php:221
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:138
+msgid "Pick a color for alert box background."
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:147 shortcodes/button/class-button.php:287
+#: shortcodes/countdown/class-countdown.php:139
+#: shortcodes/countdown/class-countdown.php:184
+#: shortcodes/promo-box/class-promo-box.php:331
+#: shortcodes/subscribe/class-subscribe.php:327
+#: shortcodes/tabs-container/class-tabs-container.php:170
+#: shortcodes/team/class-team.php:119
+msgid "Border Color"
+msgstr ""
+
+#: shortcodes/alert/class-alert.php:149
+msgid "Pick a color for alert box border."
+msgstr ""
+
+#: shortcodes/alert/views/custom.php:3 shortcodes/alert/views/danger.php:9
+#: shortcodes/alert/views/info.php:9 shortcodes/alert/views/success.php:9
+#: shortcodes/alert/views/warning.php:9
+msgid "Close"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:46
+msgid "Animated Image"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:53
+#: shortcodes/featuredbox/class-featuredbox.php:129
+#: shortcodes/featuredbox/class-featuredbox.php:148
+#: shortcodes/page-title/class-page-title.php:228
+#: shortcodes/promo-box/class-promo-box.php:240
+#: shortcodes/testimonial/class-testimonial.php:57
+msgid "Image"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:55
+msgid "Add an image for animation."
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:59
+#: shortcodes/slider/class-slider.php:92
+msgid "Animation Type"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:61
+msgid "Select an image animation type from dropdown."
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:68
+#: shortcodes/team/class-team.php:109
+#: shortcodes/testimonial/class-testimonial.php:59
+msgid "None"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:69
+msgid "ZoomIn"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:83
+#: shortcodes/divider/class-divider.php:103
+#: shortcodes/featuredbox/class-featuredbox.php:90
+#: shortcodes/page-title/class-page-title.php:150
+#: shortcodes/promo-box/class-promo-box.php:127
+#: shortcodes/subscribe/class-subscribe.php:169
+#: shortcodes/tabs-container/class-tabs-container.php:192
+#: shortcodes/timeline-event/class-timeline-event.php:46
+msgid "Alignment"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:85
+msgid "Alignment for image content."
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:92
+#: shortcodes/divider/class-divider.php:109
+#: shortcodes/featuredbox/class-featuredbox.php:94
+#: shortcodes/heading/class-heading.php:236
+#: shortcodes/page-title/class-page-title.php:153
+#: shortcodes/promo-box/class-promo-box.php:132
+#: shortcodes/subscribe/class-subscribe.php:173
+#: shortcodes/timeline-event/class-timeline-event.php:52
+msgid "Left"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:93
+#: shortcodes/divider/class-divider.php:108
+#: shortcodes/featuredbox/class-featuredbox.php:96
+#: shortcodes/heading/class-heading.php:235
+#: shortcodes/page-title/class-page-title.php:155
+#: shortcodes/promo-box/class-promo-box.php:131
+#: shortcodes/subscribe/class-subscribe.php:174
+msgid "Center"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:94
+#: shortcodes/divider/class-divider.php:110
+#: shortcodes/featuredbox/class-featuredbox.php:95
+#: shortcodes/heading/class-heading.php:237
+#: shortcodes/page-title/class-page-title.php:154
+#: shortcodes/timeline-event/class-timeline-event.php:51
+msgid "Right"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:99
+msgid "Vertical Alignment"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:101
+msgid "Vertical alignment for image content."
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:108
+msgid "Top"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:109
+msgid "Middle"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:110
+#: shortcodes/portfolio/class-portfolio.php:68
+msgid "Bottom"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:115
+#: shortcodes/page-title/class-page-title.php:229
+#: shortcodes/promo-box/class-promo-box.php:241
+msgid "Color"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:117
+msgid "Select a color for image content."
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:125
+msgid "Image Link"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:134
+#: shortcodes/posts/class-posts.php:54
+msgid "Image Size"
+msgstr ""
+
+#: shortcodes/animated-image/class-animated-image.php:136
+msgid "Select a suitable image size from dropdown. Default size is \"Full\"."
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:25
+#: shortcodes/animated-text/class-animated-text.php:40
+msgid "Animated Text"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:33
+msgid "Before Animated Text"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:34
+msgid "Add text before animated text."
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:42
+msgid "Comma separated animated text."
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:44
+#: shortcodes/animated-text/class-animated-text.php:97
+msgid "Animated,Text"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:48
+msgid "Default Text"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:54
+msgid "After Animated Text"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:55
+msgid "Add text after animated text."
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:61
+msgid "Effect"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:64
+msgid "Blink"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:65
+msgid "Mark"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:70
+msgid "Font Size"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:76
+msgid "Font Family"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:79
+msgid "Source Sans Pro"
+msgstr ""
+
+#: shortcodes/animated-text/class-animated-text.php:80
+msgid "Arizonia"
+msgstr ""
+
+#: shortcodes/banner/class-banner.php:33
+msgid "Banner Name"
+msgstr ""
+
+#: shortcodes/banner/class-banner.php:34
+msgid ""
+"Select a banner from the dropdown list or create a banner by going to this "
+"link %s"
+msgstr ""
+
+#: shortcodes/banner/views/elastic.php:48
+msgid "Current Slide"
+msgstr ""
+
+#: shortcodes/button/class-button.php:65
+msgid "Button"
+msgstr ""
+
+#: shortcodes/button/class-button.php:72
+msgid "Button Type"
+msgstr ""
+
+#: shortcodes/button/class-button.php:77
+msgid "Fill"
+msgstr ""
+
+#: shortcodes/button/class-button.php:78
+msgid "Line"
+msgstr ""
+
+#: shortcodes/button/class-button.php:79
+msgid "Bootstrap"
+msgstr ""
+
+#: shortcodes/button/class-button.php:85
+#: shortcodes/promo-box/class-promo-box.php:164
+#: shortcodes/subscribe/class-subscribe.php:210
+msgid "Button Shape"
+msgstr ""
+
+#: shortcodes/button/class-button.php:93
+#: shortcodes/subscribe/class-subscribe.php:214
+msgid "Rectangular"
+msgstr ""
+
+#: shortcodes/button/class-button.php:94 shortcodes/list/class-list.php:56
+#: shortcodes/subscribe/class-subscribe.php:215
+msgid "Rounded"
+msgstr ""
+
+#: shortcodes/button/class-button.php:95
+#: shortcodes/subscribe/class-subscribe.php:216
+msgid "Capsule"
+msgstr ""
+
+#: shortcodes/button/class-button.php:100
+#: shortcodes/button/class-button.php:115
+msgid "Button Color"
+msgstr ""
+
+#: shortcodes/button/class-button.php:108
+#: shortcodes/subscribe/class-subscribe.php:153
+msgid "Theme Color"
+msgstr ""
+
+#: shortcodes/button/class-button.php:109
+#: shortcodes/heading/class-heading.php:127
+#: shortcodes/heading/class-heading.php:190
+#: shortcodes/progressbar/class-progressbar.php:119
+#: shortcodes/promo-box/class-promo-box.php:110
+#: shortcodes/subscribe/class-subscribe.php:152
+msgid "Black"
+msgstr ""
+
+#: shortcodes/button/class-button.php:110
+#: shortcodes/heading/class-heading.php:128
+#: shortcodes/heading/class-heading.php:191
+#: shortcodes/progressbar/class-progressbar.php:120
+#: shortcodes/promo-box/class-promo-box.php:111
+#: shortcodes/subscribe/class-subscribe.php:151
+msgid "White"
+msgstr ""
+
+#: shortcodes/button/class-button.php:123
+#: shortcodes/heading/class-heading.php:103
+#: shortcodes/page-title/class-page-title.php:126
+#: shortcodes/page-title/class-page-title.php:163
+msgid "Default"
+msgstr ""
+
+#: shortcodes/button/class-button.php:124
+msgid "Primary"
+msgstr ""
+
+#: shortcodes/button/class-button.php:125
+msgid "Info"
+msgstr ""
+
+#: shortcodes/button/class-button.php:133
+msgid "Button Size"
+msgstr ""
+
+#: shortcodes/button/class-button.php:137
+#: shortcodes/heading/class-heading.php:151
+msgid "Large"
+msgstr ""
+
+#: shortcodes/button/class-button.php:138
+#: shortcodes/heading/class-heading.php:152
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/button/class-button.php:139
+#: shortcodes/heading/class-heading.php:153
+msgid "Small"
+msgstr ""
+
+#: shortcodes/button/class-button.php:140
+msgid "Tiny"
+msgstr ""
+
+#: shortcodes/button/class-button.php:145
+#: shortcodes/button/class-button.php:148
+#: shortcodes/button/class-button.php:324
+#: shortcodes/package/class-package.php:60
+#: shortcodes/promo-box/class-promo-box.php:152
+#: shortcodes/subscribe/class-subscribe.php:204
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/button/class-button.php:152
+#: shortcodes/package/class-package.php:66
+#: shortcodes/promo-box/class-promo-box.php:158
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/button/class-button.php:154
+msgid "http://"
+msgstr ""
+
+#: shortcodes/button/class-button.php:158
+msgid "Open Link In A New Tab."
+msgstr ""
+
+#: shortcodes/button/class-button.php:181
+msgid "Icon Postion"
+msgstr ""
+
+#: shortcodes/button/class-button.php:185
+msgid "Before Button Text"
+msgstr ""
+
+#: shortcodes/button/class-button.php:186
+msgid "After Button Text"
+msgstr ""
+
+#: shortcodes/button/class-button.php:192
+msgid "Select where icon should be displayed."
+msgstr ""
+
+#: shortcodes/button/class-button.php:196
+msgid "CSS Class"
+msgstr ""
+
+#: shortcodes/button/class-button.php:201
+msgid "CSS ID"
+msgstr ""
+
+#: shortcodes/button/class-button.php:209
+msgid "Pick a color for button text."
+msgstr ""
+
+#: shortcodes/button/class-button.php:217
+msgid "Text Color (hover)"
+msgstr ""
+
+#: shortcodes/button/class-button.php:220
+msgid "Pick a color for button text (hover)."
+msgstr ""
+
+#: shortcodes/button/class-button.php:231
+msgid "Pick a color for button background."
+msgstr ""
+
+#: shortcodes/button/class-button.php:239
+msgid "Background Color (hover)"
+msgstr ""
+
+#: shortcodes/button/class-button.php:242
+msgid "Pick a color for button background (hover)."
+msgstr ""
+
+#: shortcodes/button/class-button.php:250
+#: shortcodes/countdown/class-countdown.php:129
+msgid "Border Radius"
+msgstr ""
+
+#: shortcodes/button/class-button.php:254
+msgid ""
+"Set a border radius for button. For example %s. Recommended units are %s, %s "
+"& %s."
+msgstr ""
+
+#: shortcodes/button/class-button.php:269
+#: shortcodes/countdown/class-countdown.php:119
+#: shortcodes/countdown/class-countdown.php:173
+#: shortcodes/subscribe/class-subscribe.php:315
+#: shortcodes/team/class-team.php:101
+msgid "Border Size"
+msgstr ""
+
+#: shortcodes/button/class-button.php:275
+msgid ""
+"Set a border size for button. For example %s. Recommended units are %s, %s & "
+"%s. If you set \"0\" then border color will not be visible."
+msgstr ""
+
+#: shortcodes/button/class-button.php:290
+msgid "Pick a color for button border."
+msgstr ""
+
+#: shortcodes/button/class-button.php:298
+msgid "Border Color (Hover)"
+msgstr ""
+
+#: shortcodes/button/class-button.php:301
+msgid "Pick a color for button border (hover)."
+msgstr ""
+
+#: shortcodes/career/class-career.php:25
+msgid "Career"
+msgstr ""
+
+#: shortcodes/career/class-career.php:43
+#: shortcodes/career-info/class-career-info.php:40
+#: shortcodes/carousel/class-carousel.php:59 shortcodes/team/class-team.php:138
+msgid "Description"
+msgstr ""
+
+#: shortcodes/career/class-career.php:67
+msgid "Details Button Text"
+msgstr ""
+
+#: shortcodes/career/class-career.php:69 shortcodes/career/class-career.php:111
+msgid "View Details"
+msgstr ""
+
+#: shortcodes/career/class-career.php:73
+msgid "Apply Button Link"
+msgstr ""
+
+#: shortcodes/career/class-career.php:78
+msgid "Apply Button Text"
+msgstr ""
+
+#: shortcodes/career/class-career.php:80 shortcodes/career/class-career.php:113
+msgid "Apply For This Position"
+msgstr ""
+
+#: shortcodes/career/class-career.php:84
+msgid "Close Button Text"
+msgstr ""
+
+#: shortcodes/career/class-career.php:86 shortcodes/career/class-career.php:114
+msgid "Close Details"
+msgstr ""
+
+#: shortcodes/career/class-career.php:90
+msgid "Expanded Details"
+msgstr ""
+
+#: shortcodes/career/class-career.php:91
+msgid "Keep details panel open when page loaded."
+msgstr ""
+
+#: shortcodes/career/views/main.php:10
+msgid "Click here to view details."
+msgstr ""
+
+#: shortcodes/career-info/class-career-info.php:25
+msgid "Career Info Row"
+msgstr ""
+
+#: shortcodes/career-info/class-career-info.php:36
+#: shortcodes/career-info/class-career-info.php:56
+#: shortcodes/heading/class-heading.php:91
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/career-info/class-career-info.php:42
+msgid "Details goes here."
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:25
+#: shortcodes/clients-container/class-clients-container.php:42
+msgid "Carousel"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:33
+msgid "Carousel Type"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:37
+msgid "Only Image"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:38
+msgid "Content With Image"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:43
+msgid "Carousel Images"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:44
+#: shortcodes/slider/class-slider.php:41
+msgid "Add as many images as you want for slider."
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:68
+#: shortcodes/portfolio/class-portfolio.php:64
+msgid "Content Position"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:71
+msgid "Above Carousel"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:72
+msgid "Beside Carousel"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:81
+#: shortcodes/slider/class-slider.php:51
+msgid "Display Pagination"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:87
+msgid "Display Navigation"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:94
+msgid "Number Of Image (Large)"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:97
+msgid "Set the number of images to show on large devices. Default is 3"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:101
+msgid "Number Of Image (Desktop)"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:104
+msgid "Set the number of images to show on medium devices. Default is 3"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:108
+msgid "Number Of Image (Tab)"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:111
+msgid "Set the number of images to show on small devices. Default is 2"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:115
+msgid "Number Of Image (Mobile)"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:118
+msgid "Set the number of images to show on extra small devices. Default is 1"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:122
+#: shortcodes/clients-container/class-clients-container.php:61
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:123
+#: shortcodes/carousel/class-carousel.php:131
+#: shortcodes/carousel/class-carousel.php:144
+#: shortcodes/slider/class-slider.php:93 shortcodes/slider/class-slider.php:103
+#: shortcodes/slider/class-slider.php:117
+#: shortcodes/slider/class-slider.php:126
+msgid "Animation Settings"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:130
+msgid "Autoplay Speed"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:139
+msgid "Set autoplay speed, in milliseconds. Default is 3000 milliseconds."
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:143
+#: shortcodes/slider/class-slider.php:125
+msgid "Slide Speed"
+msgstr ""
+
+#: shortcodes/carousel/class-carousel.php:148
+msgid "Set the speed of slide, in milliseconds. Default is 200 milliseconds."
+msgstr ""
+
+#: shortcodes/client/class-client.php:25
+msgid "Client Item"
+msgstr ""
+
+#: shortcodes/client/class-client.php:33
+msgid "Client Logo"
+msgstr ""
+
+#: shortcodes/client/class-client.php:35
+msgid "Upload your client logo"
+msgstr ""
+
+#: shortcodes/client/class-client.php:39
+msgid "Client URL"
+msgstr ""
+
+#: shortcodes/client/class-client.php:43
+msgid "Client url comes here."
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:25
+msgid "Clients"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:37
+msgid "Clients Style"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:39
+msgid "Chose massive clients style"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:43
+#: shortcodes/testimonials-container/class-testimonials-container.php:81
+msgid "Grid"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:48
+msgid "Box Style"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:51
+msgid "Angle Box"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:52
+msgid "Plus Box"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:63
+msgid "Chose clients carousel will autoplay or not"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:75
+msgid "Items"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:77
+msgid "The number of item you want to see on the screen at a time"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:86
+msgid "Pagination"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:88
+msgid "Set clients carousel pagination"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:100
+msgid "Grid Size"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:102
+msgid "Chose grid type"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:104
+#: shortcodes/portfolio/class-portfolio.php:45
+msgid "Grid 2"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:105
+#: shortcodes/portfolio/class-portfolio.php:46
+msgid "Grid 3"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:106
+#: shortcodes/portfolio/class-portfolio.php:47
+msgid "Grid 4"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:107
+#: shortcodes/portfolio/class-portfolio.php:48
+msgid "Grid 5"
+msgstr ""
+
+#: shortcodes/clients-container/class-clients-container.php:108
+#: shortcodes/portfolio/class-portfolio.php:49
+msgid "Grid 6"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:75
+msgid "Countdown"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:82
+msgid "Countdown Style"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:86
+#: shortcodes/list/class-list.php:57 shortcodes/team/class-team.php:95
+msgid "Circle"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:87
+msgid "Square"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:92
+msgid "Countdown End Time"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:94
+msgid ""
+"Set countdown timer end date and time. Format:  YYYY/MM/DD. E.g: "
+"<code>2020/10/10</code>"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:98
+msgid "Show Weeks"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:101
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:102
+msgid "No"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:111
+#: shortcodes/countdown/class-countdown.php:121
+#: shortcodes/countdown/class-countdown.php:131
+#: shortcodes/countdown/class-countdown.php:142
+#: shortcodes/countdown/class-countdown.php:153
+msgid "Custom Settings: Circle Style"
+msgstr ""
+
+#: shortcodes/countdown/class-countdown.php:165
+#: shortcodes/countdown/class-countdown.php:176
+#: shortcodes/countdown/class-countdown.php:187
+#: shortcodes/countdown/class-countdown.php:198
+msgid "Custom Settings: Square Style"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:70
+msgid "Divider"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:77
+msgid "Line Style"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:82
+msgid "Double"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:84
+msgid "Massive Special"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:89
+#: shortcodes/timeline/class-timeline.php:97
+msgid "Line Color"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:90
+msgid "Pick divider line color"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:96
+msgid "Divider Width"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:97
+msgid "Set divider width"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:104
+msgid "Set divider alignment"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:116
+msgid "Check this box for displaying custom icon"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:126
+msgid "Divider Icon"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:128
+msgid "Pick divider icon"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:140
+msgid "Customize Icon"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:141
+msgid "Check this box for customizing icon"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:153
+msgid "Pick icon color"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:163
+msgid "Pick icon background color"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:171
+msgid "Icon Border"
+msgstr ""
+
+#: shortcodes/divider/class-divider.php:172
+msgid "Check this box for displaying icon border"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:63
+msgid "Featured Box"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:70
+#: shortcodes/funfactor/class-funfactor.php:76
+msgid "Display Type"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:75
+msgid "Boxed with icon in the center"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:76
+msgid "Boxed with icon on the edge"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:79
+msgid "Vertical Dark"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:80
+msgid "Vertical Light"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:81
+msgid "Icon on the left Dark"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:82
+msgid "Icon on the left Light"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:83
+msgid "Circle Icon on the Center"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:84
+msgid "Boxed"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:105
+msgid "Icon Bottom Border"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:125
+msgid "Artwork Type"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:144
+#: shortcodes/funfactor/class-funfactor.php:107
+msgid "Select an icon from the Font Awesome library."
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:162
+#: shortcodes/funfactor/class-funfactor.php:111
+msgid "Background Custom Color"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:164
+#: shortcodes/funfactor/class-funfactor.php:114
+msgid "Pick a color for background"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:174
+msgid "Pick a color for text"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:184
+#: shortcodes/funfactor/class-funfactor.php:136
+msgid "Pick a color for icon & title text"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:192
+msgid "Padding"
+msgstr ""
+
+#: shortcodes/featuredbox/class-featuredbox.php:194
+msgid "Set featured box padding"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:69
+msgid "Fun Factors"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:80
+msgid "Horizontal With Separator (Dark)"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:81
+msgid "Horizontal With Separator (Light)"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:82
+#: shortcodes/slider/class-slider.php:111
+msgid "Vertical"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:83
+msgid "Horizontal With No Separator (Dark)"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:84
+msgid "Horizontal With No Separator (Light)"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:90
+msgid "Fun Factor Text"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:96
+msgid "Fun Factor Value"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:122
+msgid "Value Color"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:125
+msgid "Pick a color for value text"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:133
+msgid "Icon & Text Color"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:144
+msgid "Disable Border"
+msgstr ""
+
+#: shortcodes/funfactor/class-funfactor.php:147
+msgid "Disable top & bottom's border"
+msgstr ""
+
+#: shortcodes/gallery/class-gallery.php:25
+msgid "Gallery"
+msgstr ""
+
+#: shortcodes/gallery/class-gallery.php:32
+msgid "Gallery Images"
+msgstr ""
+
+#: shortcodes/gallery/class-gallery.php:33
+msgid "Add as many images as you want for gallery."
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:98
+msgid "Heading Style"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:100
+msgid "Select a heading style from dropdown."
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:102
+msgid "General Style"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:105
+msgid "Border Style"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:106
+msgid "Border Bottom"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:107
+msgid "Border Bottom (Tiny)"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:108
+msgid "Border Right"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:109
+msgid "Border Around"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:118
+msgid "Write heading title text"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:119
+msgid "SOME HEADING TEXT"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:125
+msgid "Pick heading title color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:129
+#: shortcodes/heading/class-heading.php:192
+#: shortcodes/progressbar/class-progressbar.php:121
+msgid "Theme"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:135
+msgid "Custom Title Color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:136
+msgid "Pick custom heading title color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:146
+msgid "Title Size"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:147
+msgid "Set heading title font size"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:150
+msgid "Extra Large"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:154
+msgid "Extra Small"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:155
+#: shortcodes/page-title/class-page-title.php:164
+msgid "Mini"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:161
+msgid "Custom Title Size"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:162
+msgid "Set heading title custom size"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:172
+#: shortcodes/page-title/class-page-title.php:138
+#: shortcodes/promo-box/class-promo-box.php:145
+#: shortcodes/subscribe/class-subscribe.php:185
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:174
+msgid "Insert heading subtitle text"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:186
+#: shortcodes/page-title/class-page-title.php:183
+#: shortcodes/promo-box/class-promo-box.php:185
+#: shortcodes/subscribe/class-subscribe.php:243
+msgid "Subtitle Color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:188
+msgid "Pick heading subtitle color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:206
+msgid "Custom Subtitle Color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:207
+msgid "Pick custom heading subtitle color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:217
+msgid "Subtitle Position"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:218
+msgid "Set subtitle position"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:221
+msgid "Before Title"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:222
+msgid "After Title"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:231
+msgid "Heading Alignment"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:232
+msgid "Set heading alignment"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:246
+msgid "Subtitle Letter Spacing"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:247
+msgid "Chose subtitle letter spacing"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:251
+msgid "0px"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:252
+msgid "1px"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:253
+msgid "2px"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:254
+msgid "3px"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:255
+msgid "4px"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:256
+msgid "5px"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:270
+msgid "Separator Color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:271
+msgid "Set separator color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:285
+#: shortcodes/tabs-container/class-tabs-container.php:137
+msgid "Title Background Color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:286
+msgid "Set title background color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:295
+msgid "Title Border Color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:296
+msgid "Set title border color"
+msgstr ""
+
+#: shortcodes/heading/class-heading.php:317
+msgid "HEADING STYLE"
+msgstr ""
+
+#: shortcodes/list/class-list.php:25
+msgid "Icon List"
+msgstr ""
+
+#: shortcodes/list/class-list.php:33
+msgid "Icon Theme"
+msgstr ""
+
+#: shortcodes/list/class-list.php:36
+msgid "Select a icon theme from dropdown."
+msgstr ""
+
+#: shortcodes/list/class-list.php:38
+msgid "Border Less Transparent Background"
+msgstr ""
+
+#: shortcodes/list/class-list.php:39
+msgid "Border With Transparent Background"
+msgstr ""
+
+#: shortcodes/list/class-list.php:40
+msgid "Border Less Gray Background"
+msgstr ""
+
+#: shortcodes/list/class-list.php:41
+msgid "Border Less Dark Background"
+msgstr ""
+
+#: shortcodes/list/class-list.php:46
+msgid "Icon Box Style"
+msgstr ""
+
+#: shortcodes/list/class-list.php:49
+msgid "Select a icon box style from dropdown."
+msgstr ""
+
+#: shortcodes/list/class-list.php:55
+msgid "Rectangle"
+msgstr ""
+
+#: shortcodes/list/class-list.php:68
+msgid "Text"
+msgstr ""
+
+#: shortcodes/list/class-list.php:70
+msgid "Add list item text."
+msgstr ""
+
+#: shortcodes/package/class-package.php:25
+msgid "Package"
+msgstr ""
+
+#: shortcodes/package/class-package.php:33
+#: shortcodes/package/class-package.php:36
+#: shortcodes/package/class-package.php:99
+msgid "Package Name"
+msgstr ""
+
+#: shortcodes/package/class-package.php:40
+msgid "Package Price"
+msgstr ""
+
+#: shortcodes/package/class-package.php:41
+msgid "Add package price without currency."
+msgstr ""
+
+#: shortcodes/package/class-package.php:47
+msgid "Package Duration"
+msgstr ""
+
+#: shortcodes/package/class-package.php:49
+msgid "Per Month"
+msgstr ""
+
+#: shortcodes/package/class-package.php:53
+msgid "Package Features"
+msgstr ""
+
+#: shortcodes/package/class-package.php:54
+msgid ""
+"Use bulleted (unordered) list or numbered (ordered) list to list package "
+"features."
+msgstr ""
+
+#: shortcodes/package/class-package.php:56
+msgid "Feature goes here"
+msgstr ""
+
+#: shortcodes/package/class-package.php:62
+#: shortcodes/package/class-package.php:104
+msgid "Purchase"
+msgstr ""
+
+#: shortcodes/package/class-package.php:71
+msgid "Featured Package"
+msgstr ""
+
+#: shortcodes/package/class-package.php:77
+#: shortcodes/pricing-table/class-pricing-table.php:37
+msgid "Currency"
+msgstr ""
+
+#: shortcodes/package/class-package.php:83
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:115
+msgid "Page Title"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:122
+msgid "Page Title Style"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:124
+msgid "Chose page title style"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:144
+msgid "Breadcrumb"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:160
+msgid "Page Title Size"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:193
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:203
+msgid "Breadcrumb Active Color"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:213
+msgid "Title Padding"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:224
+msgid "Background Type"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:238
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:248
+msgid "Background Property"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:252
+#: shortcodes/promo-box/class-promo-box.php:284
+msgid "Cover"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:253
+#: shortcodes/promo-box/class-promo-box.php:285
+msgid "Contain"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:254
+#: shortcodes/promo-box/class-promo-box.php:266
+msgid "Repeat"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:255
+msgid "No Repeat"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:264
+#: shortcodes/promo-box/class-promo-box.php:294
+msgid "Background Attachment"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:268
+#: shortcodes/promo-box/class-promo-box.php:299
+msgid "Scroll"
+msgstr ""
+
+#: shortcodes/page-title/class-page-title.php:269
+#: shortcodes/promo-box/class-promo-box.php:300
+msgid "Fixed"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:32
+msgid "Portfolio Categories"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:39
+msgid "Grid Settings"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:43
+msgid "Select portfolio grid"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:54
+msgid "Gutter Settings"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:58
+msgid "Grid Without Gutter"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:59
+msgid "Grid With Gutter"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:67
+msgid "On Hover"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:73
+msgid "Content Alignment"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:76
+#: shortcodes/slider/class-slider.php:78
+msgid "Left Align"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:77
+#: shortcodes/slider/class-slider.php:79
+msgid "Center Align"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:78
+#: shortcodes/slider/class-slider.php:80
+msgid "Right Align"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:88
+msgid "Portfolio Items"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:91
+msgid "No. of portfolios want to display "
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:95
+msgid "Masonry View"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:99
+msgid "Check the box to display masonry view"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:103
+msgid "Disable Portfolio Filter"
+msgstr ""
+
+#: shortcodes/portfolio/class-portfolio.php:106
+msgid "Disable portfolio filter navigation "
+msgstr ""
+
+#: shortcodes/portfolio/views/bottom.php:115
+msgid "Lightbox View: %1$s"
+msgstr ""
+
+#: shortcodes/portfolio/views/bottom.php:128
+#: shortcodes/portfolio/views/on-hover.php:158
+#: shortcodes/portfolio/views/on-hover.php:162
+msgid "Video Lightbox: %1$s"
+msgstr ""
+
+#: shortcodes/portfolio/views/on-hover.php:117
+#: shortcodes/portfolio/views/on-hover.php:123
+msgid "lightbox view: "
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:25
+msgid "Blog Posts"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:32
+msgid "Post Style"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:34
+msgid "Chose massive blgo post style"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:37
+msgid "Style 1"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:38
+msgid "Style 2"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:39
+msgid "Style 3"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:40
+msgid "Style 4"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:41
+msgid "Style 5"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:46
+msgid "Number of posts"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:47
+msgid "Enter number of posts to display."
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:58
+msgid "Select a suitable image size from dropdown. Default is \"Medium\"."
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:62
+msgid "Excerpt Length"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:65
+msgid "Enter the post excerpt length"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:69
+msgid "Status"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:72
+msgid "Publish"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:73
+msgid "Future"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:74
+msgid "Draft"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:75
+msgid "Pending"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:76
+msgid "Private"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:77
+msgid "Trash"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:78
+msgid "Auto Draft"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:80
+msgid "Select posts status. More at %s."
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:85
+msgid "Categories"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:87
+msgid ""
+"Enter categories by names to narrow output (Note: only listed categories "
+"will be displayed, divide categories with linebreak (Enter))."
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:91
+msgid "Order by"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:94
+msgid "Date"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:95
+msgid "ID"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:96
+msgid "Author"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:98
+msgid "Modified"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:99
+msgid "Random"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:100
+msgid "Comment count"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:101
+msgid "Menu order"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:103
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:108
+msgid "Sort order"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:111
+msgid "Descending"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:112
+msgid "Ascending"
+msgstr ""
+
+#: shortcodes/posts/class-posts.php:114
+msgid "Select ascending or descending order. More at %s."
+msgstr ""
+
+#: shortcodes/posts/views/five.php:51 shortcodes/posts/views/four.php:45
+#: shortcodes/posts/views/three.php:53 shortcodes/posts/views/two.php:47
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/posts/views/five.php:59 shortcodes/posts/views/four.php:53
+#: shortcodes/posts/views/one.php:59 shortcodes/posts/views/three.php:61
+#: shortcodes/posts/views/two.php:55
+msgid "No post found!"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:25
+msgid "Pricing Table"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:43
+msgid "Column(s)"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:44
+msgid "Select how many packages you want in a row."
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:48
+msgid "1 Column"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:49
+msgid "2 Columns"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:50
+msgid "3 Columns"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:51
+msgid "4 Columns"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:52
+msgid "6 Columns"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:57
+msgid "Remove Gutter"
+msgstr ""
+
+#: shortcodes/pricing-table/class-pricing-table.php:58
+msgid "Remove gutter/black space between package columns."
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:73
+msgid "Progressbar"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:81
+msgid "Progressbar Style"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:83
+#: shortcodes/progressbar/class-progressbar.php:87
+msgid "Tooltip"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:84
+msgid "Chose progressbar style"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:88
+msgid "Inline"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:93
+msgid "Progressbar Text"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:96
+msgid " HTML / CSS / JQUERY "
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:97
+msgid "Write progressbar text here"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:101
+msgid "Progress Percentage"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:104
+msgid "Write progress percentage here"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:108
+msgid "Progressbar Text Color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:110
+msgid "Pick progressbar TEXT color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:115
+msgid "Progressbar Color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:117
+msgid "Pick progressbar color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:127
+msgid "Custom Bar Color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:128
+msgid "Pick custom progressbar color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:138
+msgid "Progressbar Background Color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:140
+msgid "Pick progressbar BACKGROUND color"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:145
+msgid "Progressbar Height"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:147
+msgid "Set progress bar height"
+msgstr ""
+
+#: shortcodes/progressbar/class-progressbar.php:162
+msgid "HTML / CSS / JQUERY"
+msgstr ""
+
+#: shortcodes/progressbars/class-progressbars.php:25
+msgid "Progressbars"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:97
+msgid "Promo Box"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:104
+msgid "Promo Style"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:108
+#: shortcodes/subscribe/class-subscribe.php:150
+msgid "Gray"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:109
+msgid "Thame Color"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:117
+#: shortcodes/subscribe/class-subscribe.php:159
+msgid "Layout"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:121
+#: shortcodes/subscribe/class-subscribe.php:163
+msgid "Box"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:122
+#: shortcodes/subscribe/class-subscribe.php:164
+msgid "Fullwidth"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:129
+msgid "Chose promo box content alignment"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:139
+msgid "Promo box title comes here"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:141
+#: shortcodes/promo-box/class-promo-box.php:353
+msgid "START BUILDING YOUR PROJECT WITH MASSIVE"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:147
+msgid "Promo box subtitle comes here"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:148
+#: shortcodes/promo-box/class-promo-box.php:354
+msgid "ARE YOU IMPRESSED WITH OUR CREATIVE WORK?"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:154
+#: shortcodes/promo-box/class-promo-box.php:357
+msgid "Purchase Now"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:160
+msgid "Button link comes here."
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:195
+#: shortcodes/subscribe/class-subscribe.php:267
+msgid "Button Text Color"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:205
+#: shortcodes/subscribe/class-subscribe.php:279
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:215
+#: shortcodes/subscribe/class-subscribe.php:291
+msgid "Button Background Color"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:225
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:235
+msgid "Promo Background Type"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:237
+msgid "Chose promo box background type"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:250
+msgid "Upload Background Image"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:252
+msgid "Upload your promo background image"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:261
+msgid "Background Repeat"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:263
+msgid "Select background repeat property"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:267
+msgid "Repeat X"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:268
+msgid "Repeat Y"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:269
+msgid "No-repeat"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:278
+msgid "Background Size"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:280
+msgid "Select background size property"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:283
+msgid "Inherit"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:296
+msgid "Select background attachment property"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:319
+msgid "Border Box"
+msgstr ""
+
+#: shortcodes/promo-box/class-promo-box.php:321
+msgid "Set border on promo box"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:25
+msgid "Slider"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:33
+msgid "Slider Title"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:35
+msgid "This title is being used for backend only."
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:40
+msgid "Slider Images"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:46
+msgid "Display Caption"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:58
+msgid "Pagination Type"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:65
+msgid "Bullet"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:66
+msgid "Thumbnail"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:71
+msgid "Pagination Alignment"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:85
+msgid "Slider Image Size"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:87
+msgid "Full size image will be used as default."
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:96
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:97
+msgid "Fade"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:102
+msgid "Slide Direction"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:110
+msgid "Horizontal"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:116
+msgid "Animation Speed"
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:121
+msgid ""
+"Set the speed of animations, in milliseconds. Default is 600 milliseconds."
+msgstr ""
+
+#: shortcodes/slider/class-slider.php:130
+msgid ""
+"Set the speed of the slide show cycling, in milliseconds. Default is 7000 "
+"milliseconds."
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:139
+#: shortcodes/subscribe/class-subscribe.php:206
+#: shortcodes/subscribe/class-subscribe.php:367
+msgid "Subscribe"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:146
+msgid "Subscribe Style"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:181
+#: shortcodes/subscribe/class-subscribe.php:363
+msgid "SUBSCRIBE TO GET IN TOUCH"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:187
+#: shortcodes/subscribe/class-subscribe.php:364
+msgid "Connecting ideas and people, how talk can change our lives"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:191
+msgid "Mailchimp URL"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:193
+msgid "Enter mailchimp url."
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:198
+msgid "Placeholder Text"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:200
+#: shortcodes/subscribe/class-subscribe.php:365
+msgid "Enter your email address"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:255
+msgid "Input Field Background Color"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:303
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: shortcodes/subscribe/class-subscribe.php:339
+msgid "Subscribe Box Radius"
+msgstr ""
+
+#: shortcodes/tab/class-tab.php:25
+msgid "Tab Item"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:80
+msgid "Tabs"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:92
+msgid "Tabs Style"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:94
+msgid "Chose massive tab style"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:97
+msgid "Underlined Tab"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:98
+msgid "Button Tab "
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:99
+msgid "Button Tab (Content Border)"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:100
+msgid "Capsule Tab"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:101
+msgid "Rectangular Tab"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:102
+msgid "Icon Tab"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:103
+msgid "Icon Tab With Title"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:148
+msgid "Title Background Hover & Active Color"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:181
+msgid "Border Hover & Active Color"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:196
+msgid "Normal"
+msgstr ""
+
+#: shortcodes/tabs-container/class-tabs-container.php:197
+msgid "Justified"
+msgstr ""
+
+#: shortcodes/team/class-team.php:52
+msgid "Team Member"
+msgstr ""
+
+#: shortcodes/team/class-team.php:60 shortcodes/timeline/class-timeline.php:86
+msgid "Style"
+msgstr ""
+
+#: shortcodes/team/class-team.php:64
+msgid "Style One"
+msgstr ""
+
+#: shortcodes/team/class-team.php:65
+msgid "Style Two"
+msgstr ""
+
+#: shortcodes/team/class-team.php:66
+msgid "Style Three"
+msgstr ""
+
+#: shortcodes/team/class-team.php:67
+msgid "Style Four"
+msgstr ""
+
+#: shortcodes/team/class-team.php:68
+msgid "Style Five"
+msgstr ""
+
+#: shortcodes/team/class-team.php:73
+#: shortcodes/testimonial/class-testimonial.php:33
+msgid "Name"
+msgstr ""
+
+#: shortcodes/team/class-team.php:76 shortcodes/team/class-team.php:262
+msgid "Member Name"
+msgstr ""
+
+#: shortcodes/team/class-team.php:80
+#: shortcodes/testimonial/class-testimonial.php:40
+msgid "Job Title"
+msgstr ""
+
+#: shortcodes/team/class-team.php:86
+msgid "Photo"
+msgstr ""
+
+#: shortcodes/team/class-team.php:91
+msgid "Photo Style"
+msgstr ""
+
+#: shortcodes/team/class-team.php:94
+msgid "Simple"
+msgstr ""
+
+#: shortcodes/team/class-team.php:96
+msgid "Circle Border"
+msgstr ""
+
+#: shortcodes/team/class-team.php:149
+msgid "Facebook"
+msgstr ""
+
+#: shortcodes/team/class-team.php:151 shortcodes/team/class-team.php:157
+#: shortcodes/team/class-team.php:163 shortcodes/team/class-team.php:169
+#: shortcodes/team/class-team.php:175 shortcodes/team/class-team.php:181
+#: shortcodes/team/class-team.php:187 shortcodes/team/class-team.php:193
+#: shortcodes/team/class-team.php:199 shortcodes/team/class-team.php:205
+#: shortcodes/team/class-team.php:211 shortcodes/team/class-team.php:217
+#: shortcodes/team/class-team.php:223 shortcodes/team/class-team.php:229
+#: shortcodes/team/class-team.php:235 shortcodes/team/class-team.php:241
+#: shortcodes/team/class-team.php:247
+msgid "Social Links"
+msgstr ""
+
+#: shortcodes/team/class-team.php:155
+msgid "Twitter"
+msgstr ""
+
+#: shortcodes/team/class-team.php:161
+msgid "Google+"
+msgstr ""
+
+#: shortcodes/team/class-team.php:167
+msgid "LinkedIn"
+msgstr ""
+
+#: shortcodes/team/class-team.php:173
+msgid "Dribbble"
+msgstr ""
+
+#: shortcodes/team/class-team.php:179
+msgid "Github"
+msgstr ""
+
+#: shortcodes/team/class-team.php:185
+msgid "Flickr"
+msgstr ""
+
+#: shortcodes/team/class-team.php:191
+msgid "Sound Cloud"
+msgstr ""
+
+#: shortcodes/team/class-team.php:197
+msgid "Behance"
+msgstr ""
+
+#: shortcodes/team/class-team.php:203
+msgid "Deviant Art"
+msgstr ""
+
+#: shortcodes/team/class-team.php:209
+msgid "Youtube"
+msgstr ""
+
+#: shortcodes/team/class-team.php:215
+msgid "Skype"
+msgstr ""
+
+#: shortcodes/team/class-team.php:221
+msgid "Pinterest"
+msgstr ""
+
+#: shortcodes/team/class-team.php:227
+msgid "Instagram"
+msgstr ""
+
+#: shortcodes/team/class-team.php:233
+msgid "Stack Overflow"
+msgstr ""
+
+#: shortcodes/team/class-team.php:239
+msgid "Web Site"
+msgstr ""
+
+#: shortcodes/team/class-team.php:245
+msgid "Email"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:25
+msgid "Testimonial Item"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:36
+msgid "Testimonial provider name"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:42
+msgid "Add job title with company name"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:47
+msgid "Testimonial Content"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:49
+msgid "Testimonial content comes here"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:53
+msgid "Avatar"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:55
+msgid "Choose which kind of Avatar to be displayed."
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:64
+msgid "Upload Image"
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:66
+msgid "Upload a custom avatar image."
+msgstr ""
+
+#: shortcodes/testimonial/class-testimonial.php:74
+msgid "Pick Icon"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:64
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:76
+msgid "Testimonials Style"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:78
+msgid "Chose massive testimonials design"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:82
+msgid "Carousel: Center Aligned"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:83
+msgid "Carousel: Center Aligned Boxed"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:84
+msgid "Carousel: Left Aligned Bubble"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:85
+msgid "Carousel: Left Aligned Regular"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:93
+msgid "Check this box if want to customize the colors"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:97
+msgid "Name Color"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:107
+msgid "Job Title Color"
+msgstr ""
+
+#: shortcodes/testimonials-container/class-testimonials-container.php:117
+msgid "Testimonial Content Color"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:90
+msgid "Dark Style"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:91
+msgid "Light Style"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:92
+msgid "Custom Style"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:99
+msgid "Choose a suitable line color."
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:108
+msgid "Line Width"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:110
+msgid ""
+"Set a line width. For example %s. Recommended units are %s, %s & %s. If you "
+"set \"0\" then border color will not be visible."
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:122
+msgid "Choose a suitable icon color."
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:133
+msgid "Choose a suitable color for icon background."
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:142
+msgid "Icon Border Color"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:144
+msgid "Choose a suitable color for icon border."
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:153
+msgid "Icon Border Size"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:156
+msgid ""
+"Set a border size for icon. For example %s. Recommended units are %s, %s & "
+"%s. If you set \"0\" then border color will not be visible."
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:165
+msgid "Event Title Color"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:167
+msgid "Choose a suitable color for event title."
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:176
+msgid "Event Description Color"
+msgstr ""
+
+#: shortcodes/timeline/class-timeline.php:178
+msgid "Choose a suitable color for event description."
+msgstr ""
+
+#: shortcodes/timeline-event/class-timeline-event.php:25
+msgid "Timeline Event"
+msgstr ""
+
+#: shortcodes/timeline-event/class-timeline-event.php:33
+#: shortcodes/timeline-event/class-timeline-event.php:36
+#: shortcodes/timeline-event/class-timeline-event.php:83
+msgid "Event Title"
+msgstr ""
+
+#: shortcodes/timeline-event/class-timeline-event.php:40
+msgid "Event Details"
+msgstr ""
+
+#: shortcodes/timeline-event/class-timeline-event.php:42
+msgid "Event details goes here"
+msgstr ""
+
+#: shortcodes/timeline-event/class-timeline-event.php:59
+msgid "Select an icon for this event."
+msgstr ""
+
+#: shortcodes/timeline-event/class-timeline-event.php:67
+msgid "Title Link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Massive Engine"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://massive.themebucket.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Massive Engine is the core plugin for Massive WordPress Theme. You must "
+"install this plugin to get a full fledge Massive WordPress Theme, otherwise "
+"you'll miss some cool features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Bucket"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themebucket.net"
+msgstr ""
